@@ -1,0 +1,955 @@
+"UserID"	"WindowID"	"Split"	"City"	"State"	"Country"	"ZipCode"	"DegreeType"	"Major"	"GraduationDate"	"WorkHistoryCount"	"TotalYearsExperience"	"CurrentlyEmployed"	"ManagedOthers"	"ManagedHowMany"
+769	"1"	"Test"	"Roselle"	"IL"	"US"	"60172"	"Bachelor's"	"Radio-Television"	2011-05-01	5	5	NA	NA	0
+2528	"1"	"Train"	"Lombard"	"IL"	"US"	"60148"	"Vocational"	"Medical assistant"	2011-06-01	4	23	NA	NA	0
+2652	"1"	"Test"	"Glendale"	"CA"	"US"	"91204"	"High School"	"Not Applicable"	1987-01-01	3	21	NA	NA	3
+4743	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76137"	"High School"	"Not Applicable"	2006-06-01	6	6	NA	NA	0
+9280	"1"	"Test"	"Pompano Beach"	"FL"	"US"	"33060"	"Associate's"	"Education"	2008-05-01	4	7	NA	NA	15
+11647	"1"	"Train"	"Homestead"	"FL"	"US"	"33033"	"None"	NA	NA	3	9	NA	NA	0
+16834	"1"	"Train"	"Pleasant Hill"	"MO"	"US"	"64080"	"Bachelor's"	"Accounting"	NA	3	7	NA	NA	0
+19941	"1"	"Train"	"Gainesville"	"FL"	"US"	"32608"	"Master's"	"Industrial & Systems Engineering"	2010-08-01	3	4	NA	NA	0
+21193	"1"	"Train"	"San Antonio"	"TX"	"US"	"78251"	"Master's"	NA	NA	5	4	NA	NA	0
+25878	"1"	"Train"	"Atlanta"	"GA"	"US"	"30360"	"None"	"Pharmacology"	2010-07-01	4	2	NA	NA	0
+34366	"1"	"Train"	"Newtown Square"	"PA"	"US"	"19073"	"Bachelor's"	"Generalist Practice 1 and"	NA	4	6	NA	NA	0
+41346	"1"	"Train"	"Chicago"	"IL"	"US"	"60619"	"Bachelor's"	NA	2012-06-01	3	2	NA	NA	0
+43503	"1"	"Test"	"Tempe"	"AZ"	"US"	"85281"	"Master's"	NA	NA	6	5	NA	NA	0
+43840	"1"	"Train"	"Oshkosh"	"WI"	"US"	"54902"	"High School"	"Not Applicable"	2011-01-01	3	1	NA	NA	0
+45102	"1"	"Train"	"Baton Rouge"	"LA"	"US"	"70805"	"High School"	"Not Applicable"	2006-05-01	4	6	NA	NA	0
+47333	"1"	"Train"	"Hialeah"	"FL"	"US"	"33013"	"High School"	"Not Applicable"	2003-03-01	3	8	NA	NA	0
+47623	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85016"	"None"	NA	1992-03-01	4	9	NA	NA	0
+50853	"1"	"Test"	"Arlington Heights"	"IL"	"US"	"60005"	"None"	NA	NA	4	12	NA	NA	0
+52075	"1"	"Train"	"Clive"	"IA"	"US"	"50325"	"Bachelor's"	"Art"	1986-01-01	8	24	NA	NA	0
+52946	"1"	"Train"	"Rutherfordton"	"NC"	"US"	"28139"	"Bachelor's"	"Business"	NA	3	5	NA	NA	20
+54752	"1"	"Train"	"Overland Park"	"KS"	"US"	"66204"	"High School"	"Not Applicable"	2006-01-01	3	6	NA	NA	0
+55399	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45251"	"None"	"Mechanical Engineering"	2010-01-01	4	7	NA	NA	0
+55500	"1"	"Train"	"Golden"	"CO"	"US"	"80402"	"Associate's"	NA	1988-01-01	6	17	NA	NA	15
+57714	"1"	"Train"	"Seminole"	"FL"	"US"	"33776"	"None"	"Graphics Art & Design and Business Administration"	NA	5	20	NA	NA	0
+58693	"1"	"Train"	"Waretown"	"NJ"	"US"	"08758"	"Master's"	"Organizational Leadership"	NA	3	8	NA	NA	0
+59066	"1"	"Train"	"Rutledge"	"GA"	"US"	"30663"	"High School"	"Not Applicable"	NA	4	14	NA	NA	5
+63706	"1"	"Train"	"Miami"	"FL"	"US"	"33172"	"Associate's"	"Business"	2003-01-01	3	7	NA	NA	0
+67191	"1"	"Train"	"Houston"	"TX"	"US"	"77015"	"None"	NA	NA	2	10	NA	NA	0
+70307	"1"	"Train"	"Boynton Beach"	"FL"	"US"	"33472"	"None"	"Letters of Reference"	NA	4	19	NA	NA	2
+72028	"1"	"Test"	"New York"	"NY"	"US"	"10034"	"Master's"	"Finance and Investments"	NA	4	16	NA	NA	0
+72227	"1"	"Train"	"Canyon Lake"	"TX"	"US"	"78133"	"None"	NA	2003-01-01	2	5	NA	NA	0
+76044	"1"	"Train"	"Grand Prairie"	"TX"	"US"	"75050"	"None"	NA	NA	0	NA	NA	NA	0
+78567	"1"	"Train"	"Washington"	"DC"	"US"	"20011*"	"Bachelor's"	"Business"	2008-05-01	6	9	NA	NA	0
+81354	"1"	"Test"	"Mc Donald"	"PA"	"US"	"15057"	"Bachelor's"	"Managerial Accounting"	2007-09-01	5	12	NA	NA	0
+81464	"1"	"Test"	"Charlotte"	"NC"	"US"	"28262"	"Bachelor's"	"Mechanical Engineering Technology"	2012-05-01	2	7	NA	NA	0
+82260	"1"	"Train"	"Jacksonville"	"FL"	"US"	"32244"	"None"	"Criminal Justice and Human"	NA	10	8	NA	NA	0
+82522	"1"	"Train"	"Baltimore"	"MD"	"US"	"21208"	"None"	"Electrician Wiring"	2008-01-01	3	6	NA	NA	0
+85276	"1"	"Train"	"Humble"	"TX"	"US"	"77346"	"High School"	"Not Applicable"	2004-01-01	6	8	NA	NA	5
+88381	"1"	"Train"	"Calumet City"	"IL"	"US"	"60409"	"High School"	"Not Applicable"	2010-01-01	3	5	NA	NA	0
+88383	"1"	"Train"	"Dover"	"DE"	"US"	"19904"	"High School"	"Not Applicable"	NA	2	4	NA	NA	0
+92484	"1"	"Train"	"Lafayette"	"LA"	"US"	"70508"	"None"	NA	NA	0	NA	NA	NA	0
+105307	"1"	"Train"	"Dallas"	"TX"	"US"	"75228"	"High School"	"Not Applicable"	1994-01-01	7	18	NA	NA	0
+107359	"1"	"Test"	"Pompano Beach"	"FL"	"US"	"33060"	"High School"	"Not Applicable"	2006-01-01	3	4	NA	NA	0
+111777	"1"	"Train"	"South Amboy"	"NJ"	"US"	"08879"	"Bachelor's"	"History"	NA	9	14	NA	NA	0
+112778	"1"	"Train"	"Colorado Springs"	"CO"	"US"	"80910"	"High School"	"Not Applicable"	2002-01-01	5	6	NA	NA	0
+113584	"1"	"Train"	"Kannapolis"	"NC"	"US"	"28081"	"Master's"	NA	NA	6	26	NA	NA	15
+114717	"1"	"Train"	"Arlington"	"TX"	"US"	"76016"	"High School"	NA	1986-05-01	5	8	NA	NA	0
+115905	"1"	"Test"	"Frederick"	"MD"	"US"	"21702"	"Bachelor's"	"Business Management"	1984-01-01	10	18	NA	NA	13
+115981	"1"	"Train"	"Casselberry"	"FL"	"US"	"32707"	"Master's"	NA	1997-04-01	6	17	NA	NA	0
+116768	"1"	"Train"	"Burleson"	"TX"	"US"	"76028"	"Bachelor's"	"Psychology"	2012-02-01	8	23	NA	NA	150
+116816	"1"	"Train"	"Stamford"	"CT"	"US"	"06901"	"Associate's"	"Criminal Justice"	NA	3	11	NA	NA	10
+122274	"1"	"Train"	"Desoto"	"TX"	"US"	"75115"	"Master's"	NA	2004-01-01	4	18	NA	NA	25
+123433	"1"	"Train"	"Ashburn"	"VA"	"US"	"20147"	"Master's"	"Computer Science"	1996-01-01	6	22	NA	NA	0
+129188	"1"	"Test"	"Cleveland"	"OH"	"US"	"44128"	"Bachelor's"	"Aeronautical & Industrial"	2000-05-01	5	12	NA	NA	0
+131301	"1"	"Train"	"Denton"	"TX"	"US"	"76208"	"None"	NA	NA	2	18	NA	NA	100
+131328	"1"	"Train"	"The Colony"	"TX"	"US"	"75056"	"None"	NA	NA	0	NA	NA	NA	0
+133517	"1"	"Train"	"Capitol Heights"	"MD"	"US"	"20743"	"High School"	"Not Applicable"	1996-05-01	4	5	NA	NA	0
+136013	"1"	"Train"	"Woodstown"	"NJ"	"US"	"08098"	"None"	NA	NA	0	NA	NA	NA	0
+139455	"1"	"Train"	"Belfair"	"WA"	"US"	"98528"	"Bachelor's"	"Information Systems"	NA	7	7	NA	NA	0
+139951	"1"	"Train"	"Mansfield"	"TX"	"US"	"76063"	"Associate's"	"Accounting"	2010-07-01	6	8	NA	NA	15
+141072	"1"	"Train"	"Miramar"	"FL"	"US"	"33027"	"None"	"Medical"	2005-02-01	4	6	NA	NA	0
+143688	"1"	"Train"	"Orlando"	"FL"	"US"	"32809"	"None"	NA	NA	0	NA	NA	NA	6
+147301	"1"	"Test"	"Lebanon"	"OH"	"US"	"45036"	"High School"	"Computer Sciences"	NA	7	21	NA	NA	5
+148854	"1"	"Train"	"Oxon Hill"	"MD"	"US"	"20745"	"High School"	"Not Applicable"	NA	6	12	NA	NA	0
+152393	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85006"	"Bachelor's"	"Business Administration"	2010-01-01	0	NA	NA	NA	0
+152473	"1"	"Test"	"Auburn"	"WA"	"US"	"98092"	"Master's"	"Marine Biology"	2007-01-01	10	11	NA	NA	0
+152814	"1"	"Train"	"Seattle"	"WA"	"US"	"98168"	"High School"	"GED"	1997-04-01	5	7	NA	NA	0
+157612	"1"	"Test"	"Jacksonville"	"FL"	"US"	"32218"	"None"	NA	NA	9	21	NA	NA	0
+159079	"1"	"Train"	"Bensalem"	"PA"	"US"	"19020"	"Associate's"	"Political Science/French + International Studies"	2001-03-01	4	17	NA	NA	0
+160738	"1"	"Train"	"Centreville"	"VA"	"US"	"20121"	"Bachelor's"	"Information Technology"	2010-01-01	6	13	NA	NA	3
+162323	"1"	"Train"	"Hammonton"	"NJ"	"US"	"08037"	"Bachelor's"	"Computer Programming, Networking, System Modeling Theory and business applications"	2012-05-01	5	10	NA	NA	0
+165412	"1"	"Test"	"Jacksonville"	"FL"	"US"	"32245"	"Associate's"	"Business"	NA	6	14	NA	NA	4
+170052	"1"	"Train"	"Houston"	"TX"	"US"	"77027"	"Bachelor's"	"BS Business Administration"	1977-01-01	6	11	NA	NA	0
+170498	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19141"	"None"	NA	2009-01-01	6	8	NA	NA	10
+170962	"1"	"Train"	"Linden"	"VA"	"US"	"22642"	"None"	NA	NA	1	3	NA	NA	40
+172449	"1"	"Test"	"Wilmington"	"DE"	"US"	"19809"	"High School"	"Not Applicable"	1989-01-01	3	14	NA	NA	0
+174012	"1"	"Train"	"Kansas City"	"MO"	"US"	"64157"	"Associate's"	"Medicadl/ assistant and phlebotomy"	2012-05-01	7	9	NA	NA	0
+174042	"1"	"Train"	"Redondo Beach"	"CA"	"US"	"90277"	"Bachelor's"	NA	NA	10	8	NA	NA	0
+174392	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85027"	"None"	"Finance"	2004-03-01	10	15	NA	NA	0
+174398	"1"	"Train"	"Chesapeake"	"VA"	"US"	"23323"	"High School"	"Not Applicable"	2002-01-01	6	11	NA	NA	5
+176096	"1"	"Train"	"Clinton Township"	"MI"	"US"	"48036"	"Bachelor's"	"Computer Information Systems"	2003-06-01	4	7	NA	NA	0
+177396	"1"	"Train"	"Roswell"	"GA"	"US"	"30076"	"High School"	"Not Applicable"	2002-01-01	3	9	NA	NA	0
+178837	"1"	"Train"	"Tucson"	"AZ"	"US"	"85737"	"Bachelor's"	"Business Management"	NA	5	23	NA	NA	100
+180976	"1"	"Train"	"Chicago"	"IL"	"US"	"60651"	"Bachelor's"	NA	NA	6	9	NA	NA	40
+181738	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76140"	"None"	NA	NA	4	16	NA	NA	0
+183303	"1"	"Test"	"Kansas City"	"MO"	"US"	"64109"	"None"	"Political Science, and Instrumental Conducting"	NA	7	10	NA	NA	10
+185477	"1"	"Train"	"Roanoke"	"VA"	"US"	"24018"	"None"	NA	NA	6	8	NA	NA	15
+185849	"1"	"Test"	"Taylor"	"MI"	"US"	"48180"	"None"	"Business Management, Accounting"	NA	6	10	NA	NA	0
+186466	"1"	"Test"	"Weehawken"	"NJ"	"US"	"07086"	"Bachelor's"	"Media Arts and Animation"	2010-06-01	5	4	NA	NA	0
+187573	"1"	"Train"	"Melrose Park"	"IL"	"US"	"60160"	"High School"	"Diploma"	1998-06-01	8	17	NA	NA	25
+188486	"1"	"Train"	"White Plains"	"NY"	"US"	"10603"	"Master's"	"Childhood Education/Student"	2005-01-01	9	26	NA	NA	0
+188660	"1"	"Train"	"Farmingdale"	"NY"	"US"	"11735"	"Bachelor's"	"Criminal Justice"	NA	7	8	NA	NA	15
+190091	"1"	"Train"	"Duncanville"	"TX"	"US"	"75137"	"High School"	"Not Applicable"	NA	4	6	NA	NA	0
+193637	"1"	"Test"	"Dallas"	"TX"	"US"	"75231"	"Bachelor's"	"Marketing & Criminology"	1990-01-01	4	12	NA	NA	0
+196098	"1"	"Train"	"Lake Worth"	"FL"	"US"	"33466"	"None"	NA	NA	7	7	NA	NA	0
+197266	"1"	"Test"	"Cordova"	"TN"	"US"	"38016"	"Bachelor's"	"Marketing and General Business"	1988-12-01	10	23	NA	NA	0
+201686	"1"	"Train"	"Minneapolis"	"MN"	"US"	"55404"	"None"	NA	NA	5	7	NA	NA	0
+204574	"1"	"Train"	"Roxbury Crossing"	"MA"	"US"	"02120"	"None"	NA	NA	0	NA	NA	NA	0
+204805	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19151"	"High School"	"Not Applicable"	1996-06-01	4	15	NA	NA	6
+206062	"1"	"Train"	"Elon"	"NC"	"US"	"27244"	"Bachelor's"	"Business Administration"	2012-05-01	6	7	NA	NA	0
+208618	"1"	"Train"	"Detroit"	"MI"	"US"	"48224"	"None"	"Business/ Economics"	NA	6	20	NA	NA	0
+209616	"1"	"Train"	"Raleigh"	"NC"	"US"	"27609"	"Bachelor's"	"Business Management, Economics"	2011-05-01	4	5	NA	NA	0
+210386	"1"	"Test"	"Kansas City"	"MO"	"US"	"64127"	"None"	NA	NA	4	2	NA	NA	0
+211059	"1"	"Train"	"Des Moines"	"IA"	"US"	"50315"	"High School"	"GEN"	1994-06-01	2	12	NA	NA	0
+211893	"1"	"Train"	"Bronx"	"NY"	"US"	"10457"	"None"	NA	2012-03-01	4	6	NA	NA	0
+212311	"1"	"Test"	"Slippery Rock"	"PA"	"US"	"16057"	"Bachelor's"	"Business Management"	NA	5	13	NA	NA	4
+213307	"1"	"Train"	"Maypearl"	"TX"	"US"	"76064"	"High School"	"Not Applicable"	1986-01-01	4	3	NA	NA	0
+215187	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46219"	"High School"	NA	NA	3	14	NA	NA	0
+218244	"1"	"Train"	"Antioch"	"TN"	"US"	"37013"	"High School"	"Not Applicable"	2001-05-01	7	13	NA	NA	35
+219150	"1"	"Train"	"Waukegan"	"IL"	"US"	"60085"	"Bachelor's"	"BUSINESS ADMINISTRATION"	NA	7	27	NA	NA	0
+219462	"1"	"Train"	"Houston"	"TX"	"US"	"77077"	"None"	NA	NA	3	2	NA	NA	0
+220302	"1"	"Test"	"Newark"	"DE"	"US"	"19702"	"High School"	"Not Applicable"	2007-01-01	1	1	NA	NA	0
+224140	"1"	"Train"	"Plantation"	"FL"	"US"	"33324"	"Bachelor's"	"Computer Information Systems"	2002-03-01	4	15	NA	NA	0
+226117	"1"	"Train"	"New Baltimore"	"MI"	"US"	"48047"	"Vocational"	"Clinical"	2011-11-01	3	7	NA	NA	0
+227129	"1"	"Train"	"Ringgold"	"LA"	"US"	"71068"	"None"	"Medical Coding & Billing Technician"	2011-06-01	4	4	NA	NA	0
+228362	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76112"	"Associate's"	"Computer Network Systems"	2011-03-01	3	2	NA	NA	0
+228649	"1"	"Train"	"Lake Worth"	"FL"	"US"	"33462"	"None"	NA	NA	3	7	NA	NA	0
+228836	"1"	"Train"	"Dallas"	"TX"	"US"	"75236"	"None"	NA	2007-03-01	3	5	NA	NA	0
+232149	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76106"	"High School"	"General Studies"	2001-05-01	4	5	NA	NA	0
+233498	"1"	"Train"	"Columbus"	"OH"	"US"	"43227"	"None"	NA	NA	8	11	NA	NA	0
+234362	"1"	"Train"	"Chester"	"SC"	"US"	"29706"	"None"	NA	NA	4	4	NA	NA	0
+235078	"1"	"Test"	"New York"	"NY"	"US"	"10004"	"Master's"	"Organizational Management"	2011-12-01	4	6	NA	NA	0
+238210	"1"	"Train"	"Kissimmee"	"FL"	"US"	"34744"	"Associate's"	"Sheff Cooker #1"	1995-11-01	5	4	NA	NA	9
+238755	"1"	"Train"	"Pitman"	"NJ"	"US"	"08071"	"Bachelor's"	"Mathematics"	2011-05-01	4	9	NA	NA	0
+239751	"1"	"Test"	"Newark"	"NJ"	"US"	"07112"	"Bachelor's"	NA	NA	2	6	NA	NA	0
+239969	"1"	"Train"	"Saginaw"	"MI"	"US"	"48601"	"Bachelor's"	"Criminal Justice"	2012-12-01	4	5	NA	NA	0
+241452	"1"	"Train"	"Lithonia"	"GA"	"US"	"30038"	"High School"	"Not Applicable"	1997-01-01	5	14	NA	NA	75
+243936	"1"	"Train"	"Calumet City"	"IL"	"US"	"60409"	"Associate's"	"Business Administration"	NA	4	22	NA	NA	0
+247465	"1"	"Train"	"Mount Holly"	"NC"	"US"	"28120"	"None"	"Computer Science"	1995-01-01	0	NA	NA	NA	0
+248400	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19122"	"Associate's"	"Behavorial Health and Human Services"	2002-06-01	4	7	NA	NA	1
+248569	"1"	"Train"	"College Park"	"GA"	"US"	"30349"	"None"	NA	NA	6	15	NA	NA	0
+249049	"1"	"Train"	"West Jordan"	"UT"	"US"	"84084"	"Bachelor's"	"International Business"	2005-06-01	6	13	NA	NA	0
+252341	"1"	"Train"	"Pasadena"	"CA"	"US"	"91104"	"Master's"	"Psychology"	2005-06-01	5	23	NA	NA	15
+252602	"1"	"Train"	"Opa Locka"	"FL"	"US"	"33055"	"High School"	"Not Applicable"	2005-01-01	4	7	NA	NA	12
+255537	"1"	"Train"	"Riverview"	"FL"	"US"	"33568"	"None"	"Human Resources Management"	NA	6	16	NA	NA	50
+255598	"1"	"Train"	"Chicago"	"IL"	"US"	"60651"	"Bachelor's"	"Accounting"	2012-05-01	7	7	NA	NA	0
+257406	"1"	"Train"	"Georgetown"	"KY"	"US"	"40324"	"None"	NA	NA	5	13	NA	NA	0
+260246	"1"	"Train"	"Dawsonville"	"GA"	"US"	"30534"	"None"	NA	NA	9	20	NA	NA	0
+260844	"1"	"Train"	"Lynwood"	"CA"	"US"	"90262"	"Associate's"	"Business Administration/ Marketing"	2009-05-01	5	6	NA	NA	0
+263703	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46208"	"None"	"Radiologic Technology/Science - Radiographer"	2014-12-01	9	17	NA	NA	0
+265804	"1"	"Test"	"Houston"	"TX"	"US"	"77078"	"Vocational"	"Transportation"	2004-10-01	10	19	NA	NA	0
+268777	"1"	"Test"	"Concord"	"NC"	"US"	"28027"	"Associate's"	NA	2011-12-01	7	4	NA	NA	0
+269215	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19116"	"Bachelor's"	"Administration of Justice"	2000-12-01	7	10	NA	NA	0
+272530	"1"	"Train"	"Houston"	"TX"	"US"	"77045"	"Bachelor's"	"Business Administration and Management, General"	2012-06-01	5	8	NA	NA	0
+273714	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11224"	"High School"	"Business"	1970-01-01	6	21	NA	NA	4
+274405	"1"	"Train"	"Carneys Point"	"NJ"	"US"	"08069"	"Vocational"	"Medication Aide, taking CMA examination"	2012-04-01	5	9	NA	NA	0
+274502	"1"	"Train"	"El Paso"	"TX"	"US"	"79938"	"Bachelor's"	"Criminal Justice Human Services"	2012-02-01	4	11	NA	NA	0
+280130	"1"	"Train"	"Lathrop"	"MO"	"US"	"64465"	"Master's"	"Psychology"	NA	7	18	NA	NA	30
+282333	"1"	"Test"	"Pompano Beach"	"FL"	"US"	"33060"	"None"	NA	2007-01-01	7	7	NA	NA	0
+284050	"1"	"Train"	"Palm Bay"	"FL"	"US"	"32909"	"None"	"High School"	NA	4	8	NA	NA	0
+284621	"1"	"Train"	"Lauderdale Lakes"	"FL"	"US"	"33309"	"Associate's"	"Computer science"	2010-01-01	2	12	NA	NA	0
+284919	"1"	"Train"	"Plainfield"	"IN"	"US"	"46168"	"High School"	"College/University Preparatory and Advanced High School/Secondary Diploma Program"	1989-01-01	4	21	NA	NA	18
+285048	"1"	"Test"	"Evergreen Park"	"IL"	"US"	"60805"	"Bachelor's"	"Computer Information Systems"	NA	6	29	NA	NA	0
+288544	"1"	"Train"	"Woodbridge"	"VA"	"US"	"22192"	"Master's"	NA	2008-01-01	4	8	NA	NA	0
+288563	"1"	"Test"	"Philadelphia"	"PA"	"US"	"19122"	"Master's"	"Race and Gender"	NA	10	6	NA	NA	0
+293697	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45231"	"High School"	"Auto Shop & Mechanics"	1984-06-01	10	26	NA	NA	45
+294478	"1"	"Train"	"Tallahassee"	"FL"	"US"	"32311"	"Master's"	"Accounting & Finance"	1993-01-01	8	30	NA	NA	0
+294589	"1"	"Test"	"Glendale"	"CA"	"US"	"91206"	"Bachelor's"	"Business"	2010-12-01	5	12	NA	NA	0
+296054	"1"	"Train"	"Arlington"	"TX"	"US"	"76011"	"Bachelor's"	"Business Administration and Management, General"	2010-05-01	8	10	NA	NA	15
+296500	"1"	"Test"	"Albany"	"GA"	"US"	"31721"	"Bachelor's"	"marketing"	2009-01-01	5	9	NA	NA	0
+299218	"1"	"Train"	"Park Ridge"	"IL"	"US"	"60068"	"None"	NA	NA	7	8	NA	NA	5
+303104	"1"	"Train"	"Irving"	"TX"	"US"	"75061"	"None"	NA	NA	3	3	NA	NA	0
+307630	"1"	"Train"	"Miami"	"FL"	"US"	"33150"	"Associate's"	"RN nursing program"	2012-12-01	2	2	NA	NA	0
+310370	"1"	"Train"	"Houston"	"TX"	"US"	"77045"	"None"	NA	NA	0	NA	NA	NA	0
+310883	"1"	"Train"	"West Covina"	"CA"	"US"	"91791"	"None"	"Electronics"	2012-04-01	8	11	NA	NA	5
+316169	"1"	"Train"	"Chicago"	"IL"	"US"	"60636"	"High School"	NA	2005-08-01	2	5	NA	NA	0
+317349	"1"	"Train"	"New York"	"NY"	"US"	"10003"	"Bachelor's"	"Illustration"	2003-01-01	3	12	NA	NA	0
+321438	"1"	"Train"	"Knightdale"	"NC"	"US"	"27545"	"High School"	"Academic"	1977-06-01	3	26	NA	NA	75
+321953	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76131"	"None"	NA	NA	5	2	NA	NA	0
+325103	"1"	"Train"	"Greensboro"	"NC"	"US"	"27409"	"High School"	NA	2008-10-01	3	3	NA	NA	0
+338038	"1"	"Train"	"Houston"	"TX"	"US"	"77036"	"None"	NA	NA	2	8	NA	NA	0
+339773	"1"	"Train"	"San Bernardino"	"CA"	"US"	"92405"	"Bachelor's"	"Medical Billing"	2011-01-01	5	7	NA	NA	0
+348453	"1"	"Train"	"Bronx"	"NY"	"US"	"10466"	"Master's"	NA	2010-01-01	5	11	NA	NA	0
+351691	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45248"	"None"	NA	NA	7	29	NA	NA	0
+355868	"1"	"Train"	"Grandview"	"TX"	"US"	"76050"	"None"	"Diesel and Truck Technology"	2012-01-01	5	2	NA	NA	0
+360667	"1"	"Test"	"Grosse Pointe"	"MI"	"US"	"48236"	"Associate's"	"Communication"	1997-01-01	4	13	NA	NA	0
+366381	"1"	"Train"	"Irving"	"TX"	"US"	"75063"	"None"	NA	NA	1	7	NA	NA	0
+367480	"1"	"Test"	"Pleasant Hill"	"OH"	"US"	"45359"	"Bachelor's"	"Education"	2012-04-01	3	5	NA	NA	0
+371239	"1"	"Test"	"Pinellas Park"	"FL"	"US"	"33781"	"High School"	"Not Applicable"	2010-01-01	2	9	NA	NA	0
+372894	"1"	"Train"	"Roseville"	"OH"	"US"	"43777"	"High School"	"Not Applicable"	NA	4	12	NA	NA	0
+378247	"1"	"Test"	"Ridgewood"	"NY"	"US"	"11385"	"Associate's"	"Occupational Studies"	2011-01-01	3	5	NA	NA	0
+387087	"1"	"Train"	"Marietta"	"GA"	"US"	"30008"	"None"	NA	NA	0	NA	NA	NA	0
+387502	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85043"	"None"	"Genral"	2009-05-01	2	2	NA	NA	0
+388358	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76112"	"None"	NA	NA	0	NA	NA	NA	0
+388523	"1"	"Train"	"Citrus Heights"	"CA"	"US"	"95621"	"None"	NA	NA	6	16	NA	NA	0
+388707	"1"	"Test"	"Brooklyn"	"NY"	"US"	"11206"	"Bachelor's"	"Human Resources Management/Personnel Administration, General"	2009-10-01	3	12	NA	NA	15
+391520	"1"	"Train"	"Lone Tree"	"CO"	"US"	"80124"	"Bachelor's"	"Psychology and Forensic Science"	NA	4	10	NA	NA	12
+394231	"1"	"Train"	"Franklin"	"IN"	"US"	"46131"	"High School"	"Not Applicable"	1988-01-01	10	22	NA	NA	0
+407921	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19120"	"High School"	"Not Applicable"	1981-01-01	1	10	NA	NA	0
+409826	"1"	"Train"	"Washington"	"MO"	"US"	"63090"	"Bachelor's"	"Business Administration and Management, General"	2014-03-01	3	10	NA	NA	15
+417394	"1"	"Train"	"Palatine"	"IL"	"US"	"60067"	"High School"	NA	NA	4	9	NA	NA	0
+421099	"1"	"Train"	"Las Pinas"	NA	"PH"	NA	"Master's"	NA	2002-01-01	9	22	NA	NA	0
+421185	"1"	"Train"	"Glendale"	"AZ"	"US"	"85305"	"None"	NA	NA	6	22	NA	NA	0
+422904	"1"	"Test"	"South Euclid"	"OH"	"US"	"44121"	"Bachelor's"	"Business Management"	2011-01-01	5	9	NA	NA	0
+427559	"1"	"Train"	"Hialeah"	"FL"	"US"	"33015"	"None"	"education"	NA	2	17	NA	NA	0
+432991	"1"	"Train"	"Bronx"	"NY"	"US"	"10456"	"None"	NA	2012-03-01	5	15	NA	NA	0
+434262	"1"	"Train"	"Fontana"	"CA"	"US"	"92336"	"None"	"Business Management/Administration"	NA	3	7	NA	NA	11
+437691	"1"	"Test"	"Libertyville"	"IL"	"US"	"60048"	"None"	NA	NA	0	NA	NA	NA	0
+439982	"1"	"Train"	"Bronx"	"NY"	"US"	"10466"	"None"	NA	NA	0	NA	NA	NA	0
+447922	"1"	"Test"	"PUNE"	"Maharashtra"	"IN"	NA	"Master's"	NA	2012-03-01	6	9	NA	NA	0
+448944	"1"	"Train"	"La Habra"	"CA"	"US"	"90631"	"None"	NA	NA	0	NA	NA	NA	0
+449888	"1"	"Train"	"Lauderdale Lakes"	"FL"	"US"	"33319"	"High School"	"Not Applicable"	1994-01-01	3	19	NA	NA	5
+461081	"1"	"Train"	"Hamden"	"CT"	"US"	"06514"	"None"	"Practical Nursing Program"	2012-03-01	2	4	NA	NA	0
+461186	"1"	"Train"	"Weatherford"	"TX"	"US"	"76086"	"High School"	"Not Applicable"	NA	3	17	NA	NA	0
+463816	"1"	"Train"	"Ashland City"	"TN"	"US"	"37015"	"Associate's"	"Paralegal Studies Program"	2006-01-01	8	16	NA	NA	0
+467770	"1"	"Train"	"Griffin"	"GA"	"US"	"30224"	"High School"	"Not Applicable"	2001-01-01	6	11	NA	NA	0
+469761	"1"	"Test"	"Glen Cove"	"NY"	"US"	"11542"	"Bachelor's"	"Fine Arts"	2009-05-01	3	3	NA	NA	6
+473302	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19140"	"High School"	"Not Applicable"	NA	3	15	NA	NA	0
+473939	"1"	"Train"	"Friendswood"	"TX"	"US"	"77546"	"High School"	"Basics"	2010-06-01	4	6	NA	NA	0
+475322	"1"	"Train"	"Sachse"	"TX"	"US"	"75048"	"Bachelor's"	"Business Management"	NA	1	3	NA	NA	0
+476716	"1"	"Test"	"Sterling Heights"	"MI"	"US"	"48314"	"None"	"n/a"	NA	3	17	NA	NA	6
+483149	"1"	"Test"	"Washington"	"DC"	"US"	"20019"	"High School"	"Not Applicable"	2010-01-01	5	7	NA	NA	0
+491501	"1"	"Train"	"Kennesaw"	"GA"	"US"	"30152"	"Bachelor's"	"Elementary Education"	2004-05-01	4	4	NA	NA	25
+492742	"1"	"Train"	"Rochester"	"NY"	"US"	"14609"	"High School"	"Not Applicable"	NA	3	9	NA	NA	0
+496364	"1"	"Test"	"Phoenix"	"AZ"	"US"	"85035"	"High School"	"Not Applicable"	2009-03-01	5	10	NA	NA	0
+496410	"1"	"Train"	"Noblesville"	"IN"	"US"	"46060"	"None"	"Pre-law"	NA	8	17	NA	NA	0
+496505	"1"	"Train"	"Aurora"	"CO"	"US"	"80017"	"Associate's"	"Nursing"	2012-04-01	2	7	NA	NA	0
+497773	"1"	"Train"	"Astoria"	"NY"	"US"	"11105"	"Master's"	"Hospitality Marketing"	2011-01-01	1	0	NA	NA	0
+499246	"1"	"Train"	"East Meadow"	"NY"	"US"	"11554"	"Master's"	"Medical Biology"	2012-05-01	4	3	NA	NA	0
+501907	"1"	"Train"	"Bronx"	"NY"	"US"	"10454"	"High School"	NA	1992-04-01	5	16	NA	NA	0
+502471	"1"	"Train"	"Houston"	"TX"	"US"	"77083"	"Master's"	NA	2012-12-01	2	7	NA	NA	0
+502781	"1"	"Train"	"Biloxi"	"MS"	"US"	"39530"	"High School"	"Not Applicable"	1975-01-01	10	13	NA	NA	0
+504173	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46219"	"None"	NA	NA	4	2	NA	NA	0
+510566	"1"	"Train"	"Chicago"	"IL"	"US"	"60621"	"High School"	"English Language and Literature, General"	2001-06-01	3	11	NA	NA	0
+514059	"1"	"Train"	"Warren"	"MI"	"US"	"48088"	"High School"	"Not Applicable"	2005-07-01	2	5	NA	NA	0
+514993	"1"	"Train"	"Allen Park"	"MI"	"US"	"48101"	"Bachelor's"	NA	2002-01-01	2	11	NA	NA	0
+522067	"1"	"Train"	"Carrboro"	"NC"	"US"	"27510"	"Bachelor's"	"Psychology"	2012-05-01	4	6	NA	NA	8
+526670	"1"	"Train"	"Inglewood"	"CA"	"US"	"90305"	"High School"	"Required Courses"	1999-06-01	6	13	NA	NA	0
+527883	"1"	"Train"	"Lawrenceville"	"GA"	"US"	"30044"	"Bachelor's"	"Public Communications"	NA	10	7	NA	NA	0
+528671	"1"	"Train"	"Alpine"	"CA"	"US"	"91901"	"Associate's"	"Baking and Pastries"	2012-03-01	4	5	NA	NA	25
+533598	"1"	"Test"	"Centennial"	"CO"	"US"	"80122"	"Master's"	"marketing"	NA	3	11	NA	NA	0
+534554	"1"	"Test"	"Starkville"	"MS"	"US"	"39759"	"Bachelor's"	"Management"	NA	2	4	NA	NA	0
+537095	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11226"	"High School"	"Not Applicable"	2010-06-01	2	2	NA	NA	0
+537908	"1"	"Train"	"Calumet City"	"IL"	"US"	"60409"	"High School"	"Not Applicable"	2011-08-01	2	5	NA	NA	0
+541489	"1"	"Train"	"Bronx"	"NY"	"US"	"10465"	"High School"	"Not Applicable"	NA	4	3	NA	NA	0
+544607	"1"	"Train"	"Nitro"	"WV"	"US"	"25143"	"High School"	"Not Applicable"	NA	3	10	NA	NA	0
+552254	"1"	"Test"	"Southfield"	"MI"	"US"	"48076"	"High School"	"Psychology / Business"	NA	5	5	NA	NA	0
+552634	"1"	"Train"	"Garner"	"NC"	"US"	"27529"	"Associate's"	"Engineering"	2011-05-01	5	9	NA	NA	2
+556964	"1"	"Train"	"Fort Wayne"	"IN"	"US"	"46805"	"High School"	"Not Applicable"	2009-06-01	3	3	NA	NA	0
+559667	"1"	"Train"	"Kansas City"	"MO"	"US"	"64134"	"None"	"Education"	NA	6	8	NA	NA	0
+560396	"1"	"Test"	"Garnet Valley"	"PA"	"US"	"19060"	"Master's"	"Management"	1998-05-01	3	15	NA	NA	10
+562095	"1"	"Test"	"Ferris"	"TX"	"US"	"75125"	"High School"	"Not Applicable"	1999-01-01	7	16	NA	NA	0
+562569	"1"	"Train"	"Atlanta"	"GA"	"US"	"30309"	"Master's"	"English"	1999-06-01	10	15	NA	NA	25
+563166	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19111"	"Master's"	"Business Administration"	2010-01-01	4	10	NA	NA	0
+563760	"1"	"Test"	"Norcross"	"GA"	"US"	"30092"	"None"	"Computer Science"	2005-08-01	3	7	NA	NA	20
+564449	"1"	"Train"	"Troy"	"MO"	"US"	"63379"	"High School"	NA	NA	1	3	NA	NA	0
+568361	"1"	"Train"	"Pembroke Pines"	"FL"	"US"	"33025"	"Master's"	"Engineering Management"	2011-01-01	8	10	NA	NA	4
+568681	"1"	"Train"	"Dallas"	"TX"	"US"	"75237"	"High School"	NA	2011-06-01	2	0	NA	NA	0
+571428	"1"	"Test"	"Bossier City"	"LA"	"US"	"71111"	"Vocational"	"clerical occupations"	1993-02-01	7	15	NA	NA	200
+572439	"1"	"Train"	"New York"	"NY"	"US"	"10128"	"Bachelor's"	"Economics and Government"	2012-05-01	10	3	NA	NA	0
+578957	"1"	"Test"	"Snellville"	"GA"	"US"	"30078"	"Bachelor's"	"Criminal Justice Administration"	2012-03-01	4	8	NA	NA	0
+584169	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46208"	"High School"	"Not Applicable"	2010-01-01	2	5	NA	NA	0
+598859	"1"	"Train"	"Reisterstown"	"MD"	"US"	"21136"	"High School"	"Music, General"	2005-05-01	5	3	NA	NA	0
+600346	"1"	"Train"	"Greenwood"	"IN"	"US"	"46143"	"Bachelor's"	"Political Science and Journalism"	1994-05-01	6	16	NA	NA	35
+601261	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45231"	"Associate's"	"Applied Business Management"	2004-01-01	2	11	NA	NA	0
+601848	"1"	"Train"	"Kalamazoo"	"MI"	"US"	"49009"	"Bachelor's"	"General Business"	NA	5	6	NA	NA	0
+605733	"1"	"Test"	"Saint Louis"	"MO"	"US"	"63143"	"Master's"	NA	1981-01-01	10	10	NA	NA	0
+606660	"1"	"Train"	"Orlando"	"FL"	"US"	"32808"	"None"	NA	NA	2	2	NA	NA	0
+608107	"1"	"Test"	"Ann Arbor"	"MI"	"US"	"48103"	"Master's"	"Management Information Systems"	NA	8	11	NA	NA	0
+610663	"1"	"Test"	"Aurora"	"IL"	"US"	"60502"	"Bachelor's"	"Psychology"	2002-05-01	6	12	NA	NA	25
+614280	"1"	"Train"	"Grapevine"	"TX"	"US"	"76051"	"Master's"	"Personal Financial Planning"	NA	3	3	NA	NA	0
+616930	"1"	"Train"	"Pinckney"	"MI"	"US"	"48169"	"High School"	"Not Applicable"	1994-01-01	2	6	NA	NA	5
+619480	"1"	"Train"	"Dallas"	"TX"	"US"	"75234"	"Bachelor's"	"Electrical Engineering Technologies/Technicians"	NA	5	4	NA	NA	0
+623251	"1"	"Train"	"Braselton"	"GA"	"US"	"30517"	"None"	NA	2012-04-01	5	19	NA	NA	0
+627100	"1"	"Test"	"Pompano Beach"	"FL"	"US"	"33060"	"High School"	"Not Applicable"	NA	4	7	NA	NA	0
+629164	"1"	"Train"	"Winnetka"	"CA"	"US"	"91306"	"Bachelor's"	"Computerized Accounting"	2008-01-01	3	8	NA	NA	10
+629838	"1"	"Test"	"Florence"	"KY"	"US"	"41042"	"High School"	"Bachelor's Program of Equine Studies"	2013-12-01	4	3	NA	NA	0
+630325	"1"	"Train"	"Saint Louis"	"MO"	"US"	"63114"	"None"	"Not Applicable"	2000-01-01	4	12	NA	NA	0
+631176	"1"	"Test"	"Brick"	"NJ"	"US"	"08723"	"None"	NA	NA	10	22	NA	NA	0
+632190	"1"	"Test"	"West Palm Beach"	"FL"	"US"	"33411"	"Bachelor's"	"Applied Sciences"	1995-06-01	4	16	NA	NA	20
+633279	"1"	"Test"	"Miami"	"FL"	"US"	"33129"	"Bachelor's"	NA	2011-01-01	5	8	NA	NA	10
+643144	"1"	"Train"	"Miami"	"FL"	"US"	"33134"	"High School"	"Not Applicable"	NA	3	3	NA	NA	25
+647157	"1"	"Test"	"Chelsea"	"AL"	"US"	"35043"	"Associate's"	"Management"	NA	3	20	NA	NA	0
+649557	"1"	"Train"	"Tampa"	"FL"	"US"	"33647"	"Bachelor's"	"English Literature (British and Commonwealth)"	2011-05-01	4	3	NA	NA	10
+650900	"1"	"Train"	"Oak Park"	"IL"	"US"	"60302"	"Bachelor's"	"Business Communication"	2010-01-01	4	9	NA	NA	7
+650941	"1"	"Test"	"Lantana"	"FL"	"US"	"33462"	"Associate's"	"Nursing"	2014-05-01	2	6	NA	NA	0
+651197	"1"	"Train"	"Jersey City"	"NJ"	"US"	"07307"	"Master's"	"Medical Biology"	2011-12-01	3	4	NA	NA	0
+654262	"1"	"Train"	"Chicago"	"IL"	"US"	"60660"	"Master's"	"Theatre History"	2010-05-01	6	4	NA	NA	0
+656865	"1"	"Train"	"Raleigh"	"NC"	"US"	"27603"	"Bachelor's"	"Civil"	NA	5	27	NA	NA	0
+659001	"1"	"Test"	"Richmond"	"VA"	"US"	"23220"	"Associate's"	"Computer and Electronics Engineering Technology"	2009-12-01	4	5	NA	NA	0
+659110	"1"	"Train"	"Bronx"	"NY"	"US"	"10453"	"Bachelor's"	"International Political Economics"	2011-05-01	8	9	NA	NA	0
+663978	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76136"	"None"	NA	NA	1	8	NA	NA	0
+664141	"1"	"Train"	"Bloomfield"	"CT"	"US"	"06002"	"Bachelor's"	"Management Information Systems"	NA	6	24	NA	NA	0
+667606	"1"	"Train"	"Miami"	"FL"	"US"	"33131"	"PhD"	"Juris Doctor"	2009-12-01	5	4	NA	NA	0
+669332	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76116"	"None"	"Business Operations"	NA	1	1	NA	NA	0
+674485	"1"	"Train"	"Forest"	"MS"	"US"	"39074"	"High School"	"Not Applicable"	2007-01-01	4	7	NA	NA	0
+676319	"1"	"Train"	"Joliet"	"IL"	"US"	"60436"	"None"	NA	NA	0	NA	NA	NA	0
+677195	"1"	"Train"	"Chicago"	"IL"	"US"	"60654"	"Bachelor's"	"Business Administration"	1987-01-01	5	15	NA	NA	0
+679785	"1"	"Train"	"Hamilton"	"OH"	"US"	"45013"	"None"	NA	NA	2	14	NA	NA	0
+680651	"1"	"Train"	"Houston"	"TX"	"US"	"77090"	"High School"	"Not Applicable"	2000-01-01	3	7	NA	NA	0
+682060	"1"	"Train"	"Ponte Vedra Beach"	"FL"	"US"	"32082"	"Bachelor's"	"business management"	NA	6	34	NA	NA	75
+683234	"1"	"Train"	"Round Rock"	"TX"	"US"	"78664"	"Master's"	NA	2010-01-01	5	11	NA	NA	12
+683624	"1"	"Train"	"Mansfield"	"TX"	"US"	"76063"	"Bachelor's"	"Medical Assisting"	2006-09-01	6	14	NA	NA	0
+685644	"1"	"Test"	"Franklinton"	"NC"	"US"	"27525"	"Associate's"	"Child Development"	2000-01-01	4	14	NA	NA	0
+686367	"1"	"Train"	"Houston"	"TX"	"US"	"77045"	"Associate's"	"Microcomputer Application Occupational Technology"	2004-06-01	5	8	NA	NA	0
+688060	"1"	"Train"	"Forest Park"	"GA"	"US"	"30297"	"None"	NA	NA	9	20	NA	NA	0
+690543	"1"	"Train"	"Atlanta"	"GA"	"US"	"30341"	"None"	NA	NA	0	NA	NA	NA	0
+692257	"1"	"Test"	"Kansas City"	"MO"	"US"	"64138"	"Associate's"	"Business Administration and Management, General"	1988-05-01	0	NA	NA	NA	4
+692536	"1"	"Train"	"Las Vegas"	"NV"	"US"	"89130"	"Associate's"	"Medical Insurance Coding Specialist/Coder/Billing"	2005-06-01	4	6	NA	NA	1
+693048	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46254"	"High School"	"Not Applicable"	NA	3	2	NA	NA	0
+694302	"1"	"Train"	"Sterling"	"VA"	"US"	"20164"	"Bachelor's"	"Economics"	1997-01-01	2	10	NA	NA	3
+697048	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85037"	"None"	"Massage Therapy"	NA	6	6	NA	NA	0
+697180	"1"	"Train"	"Tempe"	"AZ"	"US"	"85282"	"None"	NA	NA	3	4	NA	NA	0
+698228	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76180"	"High School"	"Engineering, General"	2008-06-01	3	4	NA	NA	0
+701165	"1"	"Train"	"Hamilton"	"OH"	"US"	"45011"	"High School"	"General Studies"	NA	3	9	NA	NA	0
+702093	"1"	"Train"	"Chattanooga"	"TN"	"US"	"37408"	"High School"	"Not Applicable"	1993-06-01	6	11	NA	NA	10
+702305	"1"	"Train"	"Dallas"	"TX"	"US"	"75227"	"None"	"criminal justice"	2013-06-01	1	5	NA	NA	45
+705928	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11211"	"High School"	"Academic"	1986-06-01	7	21	NA	NA	0
+706572	"1"	"Test"	"Wichita"	"KS"	"US"	"67212"	"High School"	"Not Applicable"	1995-01-01	3	18	NA	NA	0
+707570	"1"	"Test"	"North Miami Beach"	"FL"	"US"	"33179"	"Associate's"	"HEALTH INFORMATION TECHNOLOGY"	2011-01-01	4	1	NA	NA	0
+708206	"1"	"Test"	"Cary"	"NC"	"US"	"27513"	"None"	NA	NA	10	12	NA	NA	0
+714164	"1"	"Train"	"Houston"	"TX"	"US"	"77092"	"None"	NA	NA	5	8	NA	NA	0
+714214	"1"	"Train"	"North Richland Hills"	"TX"	"US"	"76180"	"High School"	"General Studies"	2000-04-01	4	12	NA	NA	2
+714948	"1"	"Train"	"Macomb"	"MI"	"US"	"48042"	"High School"	"Not Applicable"	2004-01-01	6	6	NA	NA	25
+717714	"1"	"Train"	"Decatur"	"GA"	"US"	"30034"	"Associate's"	"Business"	2002-05-01	6	9	NA	NA	0
+717759	"1"	"Test"	"Newark"	"NJ"	"US"	"07112"	"None"	NA	NA	0	NA	NA	NA	0
+717823	"1"	"Train"	"Montebello"	"CA"	"US"	"90640"	"None"	NA	NA	4	6	NA	NA	0
+719509	"1"	"Train"	"Kansas City"	"MO"	"US"	"64108"	"None"	NA	2005-01-01	3	6	NA	NA	0
+725594	"1"	"Train"	"Atlanta"	"GA"	"US"	"30312"	"Bachelor's"	"Business Management"	1991-01-01	0	NA	NA	NA	6
+728362	"1"	"Train"	"Mount Vernon"	"NY"	"US"	"10550"	"Bachelor's"	"Health Science"	2010-05-01	3	7	NA	NA	0
+728576	"1"	"Train"	"Houston"	"TX"	"US"	"77027"	"None"	"Communication"	NA	1	1	NA	NA	0
+729877	"1"	"Train"	"Durham"	"NC"	"US"	"27703"	"High School"	"Not Applicable"	1999-06-01	3	13	NA	NA	0
+732786	"1"	"Train"	"Orlando"	"FL"	"US"	"32817"	"Bachelor's"	"Business"	NA	3	12	NA	NA	0
+733281	"1"	"Train"	"Midland"	"TX"	"US"	"79703"	"Associate's"	"Theology"	NA	4	9	NA	NA	15
+737842	"1"	"Train"	"Concord"	"NC"	"US"	"28027"	"Vocational"	"Cardiovascular Technology/Technologist"	2004-02-01	3	11	NA	NA	0
+739707	"1"	"Test"	"Frisco"	"TX"	"US"	"75034"	"Bachelor's"	"Computer Science"	1978-01-01	10	34	NA	NA	0
+739991	"1"	"Test"	"New York"	"NY"	"US"	"10029"	"None"	NA	NA	0	NA	NA	NA	0
+740325	"1"	"Train"	"Memphis"	"TN"	"US"	"38141"	"Bachelor's"	"Business Administration"	2011-05-01	3	7	NA	NA	10
+743597	"1"	"Train"	"Orlando"	"FL"	"US"	"32806"	"High School"	"Not Applicable"	1985-01-01	4	11	NA	NA	2
+746062	"1"	"Train"	"Edwardsville"	"IL"	"US"	"62025"	"Master's"	"Finance and Statistics"	NA	2	2	NA	NA	0
+747715	"1"	"Train"	"Shawnee"	"KS"	"US"	"66216"	"High School"	"Academic Studies"	1986-05-01	3	11	NA	NA	5
+748126	"1"	"Train"	"Kansas City"	"KS"	"US"	"66104"	"None"	"Business Administration"	2012-03-01	5	2	NA	NA	4
+748302	"1"	"Train"	"Houston"	"TX"	"US"	"77096"	"Bachelor's"	"Healthcare Administration/Long"	2012-05-01	6	11	NA	NA	0
+748406	"1"	"Train"	"Sunrise"	"FL"	"US"	"33313"	"Bachelor's"	"Health Science"	2012-04-01	4	7	NA	NA	0
+748606	"1"	"Train"	"Oak Park"	"IL"	"US"	"60302"	"Bachelor's"	"Mechanical Engineering"	2007-01-01	8	15	NA	NA	0
+748872	"1"	"Train"	"Raleigh"	"NC"	"US"	"27610"	"High School"	"Not Applicable"	1989-01-01	5	18	NA	NA	18
+748943	"1"	"Test"	"Arlington Heights"	"IL"	"US"	"60005"	"Bachelor's"	NA	NA	5	33	NA	NA	46
+750555	"1"	"Train"	"University Park"	"IL"	"US"	"60484"	"Bachelor's"	"General Science, Human Development"	2006-01-01	3	5	NA	NA	0
+751259	"1"	"Test"	"Kansas City"	"MO"	"US"	"64114"	"High School"	"Not Applicable"	2010-01-01	2	2	NA	NA	0
+752723	"1"	"Train"	"Apopka"	"FL"	"US"	"32712"	"Vocational"	"Interior and Architectural Design"	1991-06-01	4	15	NA	NA	5
+753894	"1"	"Train"	"Baltimore"	"MD"	"US"	"21244"	"High School"	"Automobile/Automotive Mechanics Technology/Technician"	2000-05-01	2	6	NA	NA	25
+754083	"1"	"Test"	"Phoenix"	"AZ"	"US"	"85009"	"None"	NA	2009-06-01	10	13	NA	NA	150
+754407	"1"	"Train"	"Charlotte"	"NC"	"US"	"28212"	"None"	NA	1997-06-01	4	7	NA	NA	10
+754662	"1"	"Test"	"Coconut Creek"	"FL"	"US"	"33073"	"Bachelor's"	"Exercise Science & Wellness"	NA	4	9	NA	NA	0
+758464	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46201"	"None"	"Business Administration"	1989-01-01	3	19	NA	NA	0
+759140	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46214"	"High School"	"Not Applicable"	NA	5	7	NA	NA	0
+759258	"1"	"Test"	"Philadelphia"	"PA"	"US"	"19134"	"High School"	"Not Applicable"	2008-06-01	4	2	NA	NA	20
+761404	"1"	"Train"	"East Northport"	"NY"	"US"	"11731"	"High School"	"Not Applicable"	1984-01-01	7	28	NA	NA	0
+764249	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19147"	"Associate's"	"Computer Information Systems"	1995-09-01	3	21	NA	NA	0
+764351	"1"	"Train"	"West Allis"	"WI"	"US"	"53227"	"Bachelor's"	"International Business"	2011-01-01	4	4	NA	NA	0
+768180	"1"	"Train"	"Gaffney"	"SC"	"US"	"29341"	"Bachelor's"	"Management Information Systems, General"	2013-06-01	4	15	NA	NA	57
+768500	"1"	"Train"	"Madison"	"AL"	"US"	"35758"	"None"	"Telecommunications/Concentration"	2009-07-01	6	11	NA	NA	50
+769332	"1"	"Train"	"Ellicott City"	"MD"	"US"	"21043"	"Associate's"	NA	2012-03-01	0	NA	NA	NA	0
+771281	"1"	"Train"	"Florence"	"SC"	"US"	"29505"	"None"	"Chemistry"	2012-04-01	3	5	NA	NA	0
+774618	"1"	"Train"	"Houston"	"TX"	"US"	"77016"	"None"	"General Studies"	2003-05-01	8	12	NA	NA	0
+775260	"1"	"Train"	"Debary"	"FL"	"US"	"32713"	"High School"	"Computer Technology/Computer Systems Technology"	1984-06-01	3	29	NA	NA	5
+775365	"1"	"Train"	"Elk Grove Village"	"IL"	"US"	"60007"	"Bachelor's"	"Culinary Arts"	1985-01-01	9	20	NA	NA	0
+777956	"1"	"Train"	"San Antonio"	"TX"	"US"	"78217"	"Bachelor's"	NA	2001-01-01	4	10	NA	NA	0
+779004	"1"	"Train"	"Dallas"	"TX"	"US"	"75243"	"None"	"Business Law"	2012-05-01	4	4	NA	NA	0
+780275	"1"	"Train"	"Columbus"	"IN"	"US"	"47201"	"None"	NA	NA	6	33	NA	NA	8
+780279	"1"	"Train"	"Allentown"	"PA"	"US"	"18101"	"High School"	"Not Applicable"	2006-01-01	3	9	NA	NA	0
+780428	"1"	"Train"	"Kansas City"	"MO"	"US"	"64109"	"Bachelor's"	"Psychology"	2008-05-01	6	10	NA	NA	8
+782181	"1"	"Train"	"Tempe"	"AZ"	"US"	"85282"	"None"	NA	NA	9	13	NA	NA	0
+782344	"1"	"Train"	"Saint Louis"	"MO"	"US"	"63146"	"Bachelor's"	"Accountancy and Control"	2004-01-01	2	7	NA	NA	0
+782874	"1"	"Train"	"Chattanooga"	"TN"	"US"	"37405"	"Bachelor's"	"Exercise Science"	2011-01-01	4	6	NA	NA	0
+783432	"1"	"Train"	"Longview"	"TX"	"US"	"75601"	"Associate's"	"General Studies"	2012-04-01	4	7	NA	NA	0
+783752	"1"	"Test"	"Indianapolis"	"IN"	"US"	"46254"	"None"	NA	NA	10	12	NA	NA	0
+784235	"1"	"Train"	"Batavia"	"IL"	"US"	"60510"	"High School"	"Automotive"	NA	8	28	NA	NA	25
+784650	"1"	"Train"	"Yonkers"	"NY"	"US"	"10704"	"Master's"	"Business"	2012-03-01	10	7	NA	NA	0
+787796	"1"	"Train"	"Winter Park"	"FL"	"US"	"32792"	"Bachelor's"	"English Literature and Biology"	NA	5	14	NA	NA	15
+788739	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85033"	"Associate's"	"Criminal Justice Studies"	2008-01-01	3	7	NA	NA	0
+789865	"1"	"Test"	"Frisco"	"TX"	"US"	"75035"	"Associate's"	"Sales and Marketing"	1989-11-01	2	16	NA	NA	5
+789940	"1"	"Test"	"Chicago"	"IL"	"US"	"60654"	"None"	NA	NA	5	14	NA	NA	40
+790123	"1"	"Test"	"Louisville"	"KY"	"US"	"40216"	"Bachelor's"	"Business Administration- Management"	2012-05-01	4	11	NA	NA	0
+790401	"1"	"Test"	"Oak Forest"	"IL"	"US"	"60452"	"Bachelor's"	"Criminal Justice"	1998-01-01	4	13	NA	NA	15
+790447	"1"	"Train"	"Madison Heights"	"MI"	"US"	"48071"	"Associate's"	"Business Administration"	2011-05-01	4	12	NA	NA	20
+795678	"1"	"Train"	"Tampa"	"FL"	"US"	"33629"	"Bachelor's"	NA	2013-05-01	6	8	NA	NA	4
+797051	"1"	"Train"	"San Jose"	"CA"	"US"	"95116"	"Bachelor's"	"Business Administration"	2010-12-01	5	3	NA	NA	0
+801224	"1"	"Train"	"Flint"	"MI"	"US"	"48507"	"Bachelor's"	"Criminology"	2010-05-01	8	9	NA	NA	10
+801349	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46260"	"Associate's"	"Accounting"	NA	3	11	NA	NA	0
+808032	"1"	"Train"	"Simpsonville"	"KY"	"US"	"40067"	"None"	NA	2010-01-01	4	2	NA	NA	0
+810010	"1"	"Train"	"Detroit"	"MI"	"US"	"48228"	"None"	NA	NA	3	9	NA	NA	0
+810588	"1"	"Train"	"Flushing"	"NY"	"US"	"11355"	"Master's"	"Quantitative Finance"	2011-12-01	4	5	NA	NA	0
+810765	"1"	"Train"	"Miami"	"FL"	"US"	"33150"	"Associate's"	"Pre-Nursing"	2011-06-01	5	8	NA	NA	0
+811035	"1"	"Test"	"Richmond"	"VA"	"US"	"23222"	"Bachelor's"	"Marketing"	NA	4	4	NA	NA	0
+812643	"1"	"Test"	"Newark"	"NJ"	"US"	"07104"	"None"	"Medical Assistant Program"	2009-01-01	5	6	NA	NA	0
+813429	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45216"	"None"	NA	2008-01-01	6	7	NA	NA	0
+815549	"1"	"Train"	"Chicago"	"IL"	"US"	"60660"	"None"	"Fashion Business"	NA	5	2	NA	NA	0
+816142	"1"	"Train"	"Alsip"	"IL"	"US"	"60803"	"High School"	"Not Applicable"	1997-01-01	7	19	NA	NA	0
+816686	"1"	"Train"	"Hamilton"	"OH"	"US"	"45013"	"None"	NA	2010-06-01	2	1	NA	NA	0
+819432	"1"	"Train"	"Dallas"	"TX"	"US"	"75228"	"None"	NA	NA	3	1	NA	NA	0
+822016	"1"	"Train"	"Joliet"	"IL"	"US"	"60432"	"High School"	"Not Applicable"	1994-05-01	4	18	NA	NA	4
+822339	"1"	"Train"	"San Antonio"	"TX"	"US"	"78201"	"None"	NA	2010-12-01	3	6	NA	NA	0
+827492	"1"	"Train"	"Lexington"	"SC"	"US"	"29073"	"None"	"Real Estate"	2007-01-01	4	7	NA	NA	10
+828645	"1"	"Train"	"Garfield Heights"	"OH"	"US"	"44125"	"Bachelor's"	"business science with a concentration in small business and entrepreneurship"	2014-05-01	5	8	NA	NA	0
+828846	"1"	"Train"	"Dallas"	"TX"	"US"	"75240"	"Associate's"	"Network System Administrator"	2012-04-01	8	10	NA	NA	0
+829615	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45255"	"High School"	"Not Applicable"	1977-05-01	3	9	NA	NA	0
+830446	"1"	"Train"	"Houston"	"TX"	"US"	"77090"	"High School"	"Not Applicable"	1998-01-01	5	14	NA	NA	0
+832203	"1"	"Test"	"Orlando"	"FL"	"US"	"32818"	"High School"	"Not Applicable"	2007-05-01	1	4	NA	NA	8
+832552	"1"	"Test"	"Union"	"KY"	"US"	"41091"	"Bachelor's"	"Speech Communications"	2004-01-01	5	6	NA	NA	0
+832834	"1"	"Test"	"Milford"	"VA"	"US"	"22514"	"None"	"Business Administration and Management, General"	NA	3	12	NA	NA	15
+832872	"1"	"Train"	"Valley Stream"	"NY"	"US"	"11580"	"Bachelor's"	NA	2009-05-01	6	12	NA	NA	0
+833473	"1"	"Test"	"Jacksonville"	"FL"	"US"	"32254"	"High School"	"Not Applicable"	2006-01-01	3	6	NA	NA	0
+838387	"1"	"Train"	"Lewisville"	"TX"	"US"	"75067"	"Master's"	"Instruction and Technology"	2009-01-01	8	15	NA	NA	0
+838573	"1"	"Train"	"Deerfield Beach"	"FL"	"US"	"33441"	"High School"	"Not Applicable"	NA	3	9	NA	NA	0
+840761	"1"	"Train"	"Flowery Branch"	"GA"	"US"	"30542"	"None"	"Real Estate Course"	NA	10	25	NA	NA	0
+840819	"1"	"Train"	"Henderson"	"NV"	"US"	"89014"	"Master's"	NA	NA	6	12	NA	NA	13
+841243	"1"	"Train"	"Alpine"	"AL"	"US"	"35014"	"Associate's"	"Early Childhood Education"	2000-01-01	4	15	NA	NA	0
+841891	"1"	"Test"	"Bellwood"	"IL"	"US"	"60104"	"Bachelor's"	NA	2010-01-01	3	10	NA	NA	0
+842190	"1"	"Train"	"Irvington"	"NJ"	"US"	"07111"	"Bachelor's"	"Accounting and Business/Management"	1990-01-01	3	27	NA	NA	26
+844210	"1"	"Test"	"Detroit"	"MI"	"US"	"48224"	"None"	NA	2011-01-01	4	19	NA	NA	15
+845534	"1"	"Test"	"Roosevelt"	"NY"	"US"	"11575"	"High School"	"Not Applicable"	2008-06-01	4	3	NA	NA	0
+845779	"1"	"Train"	"Jamaica"	"NY"	"US"	"11435-5140"	"Bachelor's"	"Business"	2011-01-01	4	13	NA	NA	50
+846693	"1"	"Test"	"Margate"	"FL"	"US"	"33063"	"None"	NA	2000-04-01	6	10	NA	NA	0
+851748	"1"	"Test"	"Naperville"	"IL"	"US"	"60565"	"High School"	"Not Applicable"	1990-06-01	5	16	NA	NA	22
+852240	"1"	"Train"	"North Richland Hills"	"TX"	"US"	"76180"	"Bachelor's"	"Electrical Engineering"	2010-05-01	2	4	NA	NA	0
+852992	"1"	"Train"	"Troy"	"MI"	"US"	"48085"	"None"	NA	NA	5	12	NA	NA	0
+853495	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46254"	"None"	NA	NA	6	14	NA	NA	0
+854284	"1"	"Test"	"Bolingbrook"	"IL"	"US"	"60440"	"High School"	"Not Applicable"	1989-06-01	6	10	NA	NA	0
+855912	"1"	"Train"	"Gastonia"	"NC"	"US"	"28054"	"High School"	"Not Applicable"	1998-01-01	3	11	NA	NA	2
+858090	"1"	"Test"	"Charlotte"	"NC"	"US"	"28227"	"Bachelor's"	"Business"	2012-06-01	4	12	NA	NA	0
+860054	"1"	"Train"	"Milwaukee"	"WI"	"US"	"53209"	"Bachelor's"	"Healthcare Administration/Business"	2005-01-01	5	5	NA	NA	0
+861842	"1"	"Train"	"Washington"	"DC"	"US"	"20032"	"Bachelor's"	"Health Care Administration"	NA	6	13	NA	NA	0
+862968	"1"	"Test"	"Philadelphia"	"PA"	"US"	"19124"	"Associate's"	"Natural Sciences"	2004-12-01	5	9	NA	NA	25
+864368	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46217"	"None"	NA	NA	0	NA	NA	NA	60
+866395	"1"	"Train"	"Gainesville"	"GA"	"US"	"30506"	"Master's"	"Business Program"	NA	5	15	NA	NA	0
+866899	"1"	"Train"	"Anderson"	"SC"	"US"	"29621"	"None"	"Computer/Information Technology Services Administration andManagement, Other"	2011-12-01	3	8	NA	NA	6
+868699	"1"	"Train"	"Broken Arrow"	"OK"	"US"	"74012"	"Bachelor's"	"Marketing"	1979-05-01	7	32	NA	NA	0
+869417	"1"	"Train"	"Silver Spring"	"MD"	"US"	"20903"	"Bachelor's"	"Law"	2002-09-01	6	8	NA	NA	0
+871878	"1"	"Train"	"Chicago"	"IL"	"US"	"60608"	"Associate's"	"Radiography"	2012-06-01	2	8	NA	NA	0
+872158	"1"	"Train"	"Poinciana"	"FL"	"US"	"34759"	"Associate's"	"Science"	2006-12-01	0	NA	NA	NA	0
+872179	"1"	"Train"	"Brooklawn"	"NJ"	"US"	"08030"	"Associate's"	"Business Finance"	2005-05-01	2	11	NA	NA	160
+872767	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85043"	"None"	NA	NA	7	12	NA	NA	25
+875429	"1"	"Train"	"Chicago"	"IL"	"US"	"60651"	"None"	NA	NA	5	9	NA	NA	0
+876998	"1"	"Train"	"Dallas"	"TX"	"US"	"75244"	"Bachelor's"	NA	NA	0	NA	NA	NA	0
+879182	"1"	"Train"	"Charlotte"	"NC"	"US"	"28216"	"High School"	"Not Applicable"	2009-06-01	5	3	NA	NA	0
+882179	"1"	"Train"	"Houston"	"TX"	"US"	"77099"	"None"	NA	NA	1	2	NA	NA	0
+889232	"1"	"Test"	"Stone Mountain"	"GA"	"US"	"30083"	"Bachelor's"	"English"	NA	4	29	NA	NA	45
+889991	"1"	"Train"	"Rockford"	"IL"	"US"	"61101"	"Associate's"	"CDA (EARLY CHILDHOOD)"	2013-06-01	5	12	NA	NA	0
+890960	"1"	"Test"	"Raleigh"	"NC"	"US"	"27612"	"Associate's"	NA	2005-05-01	4	8	NA	NA	4
+897516	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76119"	"High School"	"Not Applicable"	2006-05-01	4	6	NA	NA	0
+900308	"1"	"Test"	"Rock Hill"	"SC"	"US"	"29732"	"Master's"	"Certified Medical Assistant"	2012-06-01	2	1	NA	NA	0
+902742	"1"	"Test"	"Terrell"	"TX"	"US"	"75160"	"High School"	"Not Applicable"	1986-01-01	1	1	NA	NA	0
+902780	"1"	"Train"	"Staten Island"	"NY"	"US"	"10305"	"None"	"Computer Science"	2012-06-01	5	7	NA	NA	0
+902812	"1"	"Train"	"Teaneck"	"NJ"	"US"	"07666"	"None"	"Business Management"	NA	10	14	NA	NA	0
+904255	"1"	"Train"	"Nashville"	"TN"	"US"	"37207"	"Bachelor's"	"Fashion Merchandising and Marketing"	2005-08-01	6	10	NA	NA	40
+908659	"1"	"Train"	"Arlington"	"TX"	"US"	"76017"	"Bachelor's"	"Computer Science"	2011-05-01	5	5	NA	NA	2
+913524	"1"	"Train"	"Plano"	"TX"	"US"	"75024"	"Master's"	"Human Resource Management"	2011-05-01	1	4	NA	NA	0
+914795	"1"	"Train"	"Lansing"	"MI"	"US"	"48911"	"PhD"	"Law"	2013-05-01	4	4	NA	NA	0
+914947	"1"	"Train"	"Neptune Beach"	"FL"	"US"	"32266"	"Bachelor's"	"Political Science"	NA	9	37	NA	NA	0
+919652	"1"	"Train"	"Hollywood"	"FL"	"US"	"33023"	"PhD"	"Health Care Education"	2014-05-01	1	6	NA	NA	0
+923754	"1"	"Train"	"Stone Mountain"	"GA"	"US"	"30087"	"High School"	"Not Applicable"	2010-01-01	6	112	NA	NA	0
+925582	"1"	"Train"	"Richmond"	"KY"	"US"	"40475"	"None"	NA	NA	5	17	NA	NA	0
+928639	"1"	"Train"	"Aurora"	"CO"	"US"	"80014"	"Vocational"	"Business and Computer skills"	2011-05-01	5	7	NA	NA	0
+929156	"1"	"Test"	"Timonium"	"MD"	"US"	"21093"	"High School"	"Not Applicable"	1998-06-01	10	11	NA	NA	0
+929813	"1"	"Train"	"Austell"	"GA"	"US"	"30168"	"None"	"Criminal Justice"	2006-01-01	10	12	NA	NA	0
+929842	"1"	"Train"	"Chicago"	"IL"	"US"	"60624"	"Associate's"	"Criminal Justice"	2010-08-01	2	3	NA	NA	0
+929966	"1"	"Train"	"Goodrich"	"MI"	"US"	"48438"	"Bachelor's"	"Physics"	2011-05-01	4	4	NA	NA	0
+930422	"1"	"Train"	"Herndon"	"VA"	"US"	"20170"	"Master's"	"Civil Engineering, General"	2007-05-01	4	13	NA	NA	20
+931253	"1"	"Train"	"Detroit"	"MI"	"US"	"48221"	"None"	"General Studies"	2012-04-01	3	2	NA	NA	0
+934119	"1"	"Test"	"Dacula"	"GA"	"US"	"30019"	"Bachelor's"	"Business"	NA	3	5	NA	NA	25
+935049	"1"	"Train"	"Clinton"	"MD"	"US"	"20735"	"None"	"Chemical Engineering"	2009-05-01	4	5	NA	NA	0
+936160	"1"	"Test"	"Barstow"	"CA"	"US"	"92311"	"High School"	"Not Applicable"	1993-01-01	6	18	NA	NA	0
+937817	"1"	"Train"	"Charlotte"	"NC"	"US"	"28214"	"None"	"Paralegal Studies"	NA	2	7	NA	NA	0
+937979	"1"	"Train"	"Ennis"	"TX"	"US"	"75119"	"None"	NA	2005-01-01	5	12	NA	NA	0
+938449	"1"	"Train"	"Temple Terrace"	"FL"	"US"	"33617"	"Associate's"	"Management and Marketing"	2012-06-01	1	1	NA	NA	0
+939682	"1"	"Test"	"Tempe"	"AZ"	"US"	"85283"	"Associate's"	"Radiology/Allied Health Management"	1996-12-01	7	19	NA	NA	3
+940013	"1"	"Test"	"Arlington"	"TX"	"US"	"76011"	"Master's"	"Human Relations and Business"	2008-03-01	5	12	NA	NA	10
+940255	"1"	"Train"	"Princeton"	"NJ"	"US"	"08540"	"Master's"	"Finance & Strategy"	NA	8	13	NA	NA	20
+940968	"1"	"Train"	"Houston"	"TX"	"US"	"77036"	"Vocational"	"Medical/Clinical Assistant"	2010-08-01	5	7	NA	NA	0
+941281	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11228"	"Associate's"	"Computer Science"	1991-01-01	5	18	NA	NA	10
+941500	"1"	"Train"	"Suitland"	"MD"	"US"	"20746"	"Associate's"	"Visual Communications"	NA	6	8	NA	NA	0
+942787	"1"	"Train"	"Middletown"	"DE"	"US"	"19709"	"None"	NA	NA	0	NA	NA	NA	0
+942957	"1"	"Test"	"Lakewood"	"OH"	"US"	"44107"	"High School"	NA	2002-06-01	1	1	NA	NA	0
+943448	"1"	"Train"	"Stone Mountain"	"GA"	"US"	"30088"	"Bachelor's"	"Culinary Arts Management"	2010-06-01	8	11	NA	NA	10
+943549	"1"	"Train"	"Santa Ana"	"CA"	"US"	"92706"	"Associate's"	"Mathematics, General/English Science"	NA	1	3	NA	NA	100
+945178	"1"	"Test"	"Chicago"	"IL"	"US"	"60621"	"High School"	"Not Applicable"	1998-01-01	6	7	NA	NA	0
+946792	"1"	"Test"	"Willingboro"	"NJ"	"US"	"08046"	"High School"	"Not Applicable"	2005-06-01	3	3	NA	NA	0
+949746	"1"	"Test"	"San Jose"	"CA"	"US"	"95123"	"None"	"Business Administration"	1975-05-01	7	12	NA	NA	2500
+952098	"1"	"Train"	"Owings Mills"	"MD"	"US"	"21117"	"High School"	"General Studies"	1993-06-01	4	8	NA	NA	10
+953415	"1"	"Train"	"Norcross"	"GA"	"US"	"30093"	"None"	NA	NA	3	13	NA	NA	0
+958618	"1"	"Train"	"North Brunswick"	"NJ"	"US"	"08902"	"High School"	"Not Applicable"	NA	3	23	NA	NA	35
+959256	"1"	"Train"	"Lorton"	"VA"	"US"	"22079"	"High School"	"Diploma"	1995-06-01	4	12	NA	NA	6
+962574	"1"	"Test"	"Powder Springs"	"GA"	"US"	"30127"	"None"	NA	1994-01-01	5	10	NA	NA	0
+963431	"1"	"Train"	"Spring Lake"	"NJ"	"US"	"07762"	"High School"	"Education, General"	1970-06-01	5	28	NA	NA	40
+963829	"1"	"Train"	"Sun Valley"	"CA"	"US"	"91352"	"High School"	"Education, General"	1987-06-01	3	23	NA	NA	500
+963850	"1"	"Test"	"Irving"	"TX"	"US"	"75063"	"None"	NA	NA	3	13	NA	NA	2
+965634	"1"	"Train"	"Tempe"	"AZ"	"US"	"85282"	"Associate's"	"Social Work"	NA	3	7	NA	NA	6
+966570	"1"	"Test"	"Weston"	"FL"	"US"	"33332"	"Bachelor's"	"Business Administration & Marketing"	NA	5	22	NA	NA	0
+969078	"1"	"Train"	"Anaheim"	"CA"	"US"	"92801"	"Bachelor's"	"Information Management, Research, Prepare statistical reports"	2000-01-01	1	6	NA	NA	50
+969178	"1"	"Train"	"Edina"	"MN"	"US"	"55439"	"Bachelor's"	"Computer Information Systems"	1998-07-01	4	17	NA	NA	28
+971948	"1"	"Test"	"Baltimore"	"MD"	"US"	"21223"	"None"	NA	NA	0	NA	NA	NA	0
+972159	"1"	"Test"	"Addison"	"TX"	"US"	"75001"	"None"	NA	NA	0	NA	NA	NA	0
+972223	"1"	"Test"	"College Park"	"GA"	"US"	"30337"	"Bachelor's"	"Information Technology"	2012-05-01	8	28	NA	NA	25
+973424	"1"	"Train"	"Kent"	"OH"	"US"	"44240"	"High School"	"Not Applicable"	1997-01-01	4	13	NA	NA	55
+977154	"1"	"Test"	"Kenosha"	"WI"	"US"	"53140"	"None"	"High School Diploma"	2005-05-01	2	3	NA	NA	0
+977229	"1"	"Train"	"Wake Forest"	"NC"	"US"	"27587"	"Master's"	"Communication"	2012-05-01	6	4	NA	NA	0
+979475	"1"	"Test"	"Decatur"	"GA"	"US"	"30032"	"High School"	"Not Applicable"	2003-01-01	6	7	NA	NA	10
+982483	"1"	"Train"	"Atlanta"	"GA"	"US"	"30350"	"Bachelor's"	"Finance"	2011-12-01	3	4	NA	NA	0
+983458	"1"	"Train"	"Spartanburg"	"SC"	"US"	"29302"	"Master's"	"Business Administration and Management, General"	2013-08-01	3	7	NA	NA	12
+985229	"1"	"Train"	"Markham"	"IL"	"US"	"60428"	"Bachelor's"	NA	NA	7	9	NA	NA	0
+987926	"1"	"Train"	"Richmond Hill"	"NY"	"US"	"11418"	"Bachelor's"	"Criminology"	2011-12-01	4	7	NA	NA	0
+990314	"1"	"Train"	"Los Angeles"	"CA"	"US"	"90008"	"High School"	"Not Applicable"	2005-01-01	3	7	NA	NA	3
+991016	"1"	"Train"	"Pembroke Park"	"FL"	"US"	"33023"	"None"	"Business Manangement"	NA	4	5	NA	NA	0
+991938	"1"	"Test"	"Desoto"	"TX"	"US"	"75115"	"Associate's"	NA	2010-01-01	4	5	NA	NA	0
+993458	"1"	"Test"	"Aventura"	"FL"	"US"	"33160"	"Associate's"	"Medical Administration Certification"	2003-05-01	5	23	NA	NA	6
+996471	"1"	"Test"	"Indianapolis"	"IN"	"US"	"46222"	"Bachelor's"	"Communication"	2009-05-01	2	4	NA	NA	2
+997546	"1"	"Train"	"Nashville"	"TN"	"US"	"37207"	"Associate's"	"Psychology, General"	2011-07-01	8	9	NA	NA	0
+998631	"1"	"Train"	"Mesquite"	"TX"	"US"	"75149"	"High School"	"Not Applicable"	1984-05-01	8	20	NA	NA	0
+999128	"1"	"Train"	"Cleveland"	"OH"	"US"	"44120"	"High School"	"Not Applicable"	2008-06-01	5	5	NA	NA	0
+1000138	"1"	"Test"	"Vienna"	"VA"	"US"	"22182"	"Bachelor's"	"Information Technology"	2006-05-01	3	4	NA	NA	0
+1006550	"1"	"Train"	"Diamondhead"	"MS"	"US"	"39525"	"None"	NA	NA	4	41	NA	NA	0
+1007218	"1"	"Train"	"Las Vegas"	"NV"	"US"	"89121"	"None"	NA	NA	4	6	NA	NA	0
+1007320	"1"	"Train"	"Hempstead"	"NY"	"US"	"11550"	"Bachelor's"	"Media and Communications"	2011-08-01	3	3	NA	NA	0
+1008568	"1"	"Test"	"Charlotte"	"NC"	"US"	"28203"	"Master's"	"Finance"	NA	5	39	NA	NA	0
+1009204	"1"	"Train"	"Louisville"	"KY"	"US"	"40218"	"Associate's"	"Marketing and Advertising"	2011-03-01	8	13	NA	NA	15
+1009444	"1"	"Train"	"San Antonio"	"TX"	"US"	"78218"	"Master's"	NA	NA	4	7	NA	NA	0
+1009557	"1"	"Train"	"Sound Beach"	"NY"	"US"	"11789"	"Bachelor's"	"Foodservice Management"	2007-05-01	5	5	NA	NA	0
+1010657	"1"	"Train"	"Bolingbrook"	"IL"	"US"	"60440"	"Master's"	"Finance and international business"	2005-01-01	5	14	NA	NA	10
+1011148	"1"	"Train"	"Silver Spring"	"MD"	"US"	"20904"	"Bachelor's"	NA	2001-01-01	9	18	NA	NA	0
+1014250	"1"	"Test"	"Overland Park"	"KS"	"US"	"66212"	"None"	"Information Technology"	2011-12-01	3	14	NA	NA	1
+1015082	"1"	"Train"	"Greensboro"	"NC"	"US"	"27410"	"High School"	"Diploma"	1982-06-01	6	19	NA	NA	20
+1020221	"1"	"Train"	"New York"	"NY"	"US"	"10031"	"Bachelor's"	"Drama"	1985-06-01	6	17	NA	NA	0
+1020404	"1"	"Train"	"Parker"	"CO"	"US"	"80134"	"Bachelor's"	"Computer Information Systems and Management Science in the School of Business"	1999-05-01	10	13	NA	NA	0
+1020618	"1"	"Test"	"Coopersville"	"MI"	"US"	"49404"	"Bachelor's"	"Construction Management Program"	NA	5	19	NA	NA	80
+1023842	"1"	"Train"	"Mesa"	"AZ"	"US"	"85205"	"High School"	"Not Applicable"	1998-01-01	7	12	NA	NA	0
+1024648	"1"	"Train"	"Fairfax"	"VA"	"US"	"22031"	"Master's"	"Computer Science"	2012-05-01	2	2	NA	NA	0
+1026004	"1"	"Train"	"Berwyn"	"IL"	"US"	"60402"	"Associate's"	NA	1995-05-01	1	14	NA	NA	0
+1026008	"1"	"Train"	"Poughkeepsie"	"NY"	"US"	"12601"	"None"	"liberal arts"	1993-12-01	10	14	NA	NA	5
+1026111	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46222"	"High School"	"Not Applicable"	NA	3	25	NA	NA	0
+1026312	"1"	"Test"	"Davenport"	"FL"	"US"	"33896"	"None"	NA	2009-06-01	3	3	NA	NA	0
+1027274	"1"	"Train"	"Columbia"	"MD"	"US"	"21044"	"Associate's"	"Criminal Justice"	1985-05-01	4	14	NA	NA	0
+1027294	"1"	"Train"	"Houston"	"TX"	"US"	"77045"	"Bachelor's"	"English/Journalism"	1983-01-01	6	24	NA	NA	0
+1027407	"1"	"Train"	"Goodrich"	"MI"	"US"	"48438"	"High School"	"Not Applicable"	1986-01-01	2	19	NA	NA	0
+1027540	"1"	"Train"	"Newark"	"NJ"	"US"	"07103"	"High School"	"Criminal Justice/Law Enforcement Administration"	1998-06-01	7	9	NA	NA	0
+1029945	"1"	"Test"	"Memphis"	"TN"	"US"	"38107"	"None"	NA	1999-01-01	5	7	NA	NA	0
+1030182	"1"	"Train"	"Denver"	"CO"	"US"	"80205"	"Associate's"	"Computer/Electronics Technology"	2001-01-01	4	7	NA	NA	0
+1031624	"1"	"Train"	"Chattanooga"	"TN"	"US"	"37421"	"Master's"	"Business Administration and Management, General"	2011-12-01	9	12	NA	NA	23
+1033482	"1"	"Test"	"Miami"	"FL"	"US"	"33185"	"High School"	"Information technology"	2011-06-01	1	1	NA	NA	0
+1034905	"1"	"Test"	"Tempe"	"AZ"	"US"	"85281"	"High School"	"Education, General"	2001-05-01	4	5	NA	NA	40
+1035410	"1"	"Test"	"Desoto"	"TX"	"US"	"75115"	"Bachelor's"	"Business Administration"	2012-04-01	6	7	NA	NA	0
+1037224	"1"	"Train"	"Bolingbrook"	"IL"	"US"	"60440"	"Vocational"	"Medical Administrative Assistant"	2010-06-01	4	7	NA	NA	0
+1038293	"1"	"Train"	"Fort Lauderdale"	"FL"	"US"	"33316"	"High School"	"Not Applicable"	NA	10	23	NA	NA	65
+1039398	"1"	"Train"	"Mesquite"	"TX"	"US"	"75149"	"High School"	NA	2004-05-01	5	4	NA	NA	0
+1039506	"1"	"Train"	"San Antonio"	"TX"	"US"	"78218"	"Bachelor's"	"Bachelors of Applied Computer Science"	2009-05-01	3	7	NA	NA	0
+1039632	"1"	"Train"	"Liberty Township"	"OH"	"US"	"45044"	"Bachelor's"	"Information Technology"	NA	5	9	NA	NA	100
+1041622	"1"	"Train"	"Shreveport"	"LA"	"US"	"71106"	"Bachelor's"	"Business Management"	1982-05-01	7	26	NA	NA	0
+1043514	"1"	"Train"	"Clarkston"	"GA"	"US"	"30021"	"High School"	"EDUCATION"	2007-06-01	3	9	NA	NA	0
+1045392	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76105"	"Bachelor's"	"Liberal Studies"	2006-01-01	3	13	NA	NA	0
+1048352	"1"	"Train"	"Reston"	"VA"	"US"	"20191"	"Master's"	"FINANCE & MARKETING"	2011-06-01	6	10	NA	NA	0
+1050558	"1"	"Train"	"Monroe"	"NC"	"US"	"28110"	"High School"	NA	1988-06-01	1	1	NA	NA	20
+1051198	"1"	"Train"	"Davie"	"FL"	"US"	"33325"	"High School"	"Not Applicable"	2001-01-01	4	6	NA	NA	0
+1051269	"1"	"Train"	"Whitman"	"MA"	"US"	"02382"	"High School"	"Not Applicable"	1991-01-01	5	22	NA	NA	6
+1053778	"1"	"Train"	"Buchanan"	"NY"	"US"	"10511"	"High School"	"Not Applicable"	1987-09-01	5	11	NA	NA	10
+1054953	"1"	"Test"	"South Elgin"	"IL"	"US"	"60177"	"Bachelor's"	"Game Art & Design"	2007-10-01	5	8	NA	NA	50
+1055433	"1"	"Train"	"Los Alamitos"	"CA"	"US"	"90720"	"Associate's"	"Business Administration"	1998-05-01	7	17	NA	NA	0
+1057377	"1"	"Train"	"Suitland"	"MD"	"US"	"20746"	"None"	NA	NA	4	13	NA	NA	1
+1057877	"1"	"Train"	"Channelview"	"TX"	"US"	"77530"	"High School"	"Not Applicable"	2004-05-01	3	6	NA	NA	0
+1059801	"1"	"Train"	"Fayetteville"	"NC"	"US"	"28311"	"High School"	"Not Applicable"	1993-01-01	4	12	NA	NA	0
+1059855	"1"	"Train"	"Clinton"	"MD"	"US"	"20735"	"None"	NA	2009-09-01	6	7	NA	NA	0
+1059986	"1"	"Train"	"Lake Elsinore"	"CA"	"US"	"92530"	"None"	"General Studies"	NA	1	22	NA	NA	10
+1061250	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76123"	"Bachelor's"	"Psychology"	NA	3	5	NA	NA	0
+1063147	"1"	"Train"	"Morrow"	"GA"	"US"	"30260"	"Bachelor's"	"Communications/Psychology"	2011-07-01	4	5	NA	NA	15
+1064233	"1"	"Test"	"Tampa"	"FL"	"US"	"33634"	"None"	"diploma"	2008-01-01	3	3	NA	NA	0
+1067352	"1"	"Train"	"Fullerton"	"CA"	"US"	"92832"	"Bachelor's"	"Cellular and Developmental Biology"	2012-04-01	3	5	NA	NA	0
+1071372	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11213"	"Associate's"	"Biology A.S"	2011-03-01	6	7	NA	NA	0
+1072996	"1"	"Test"	"Fort Wayne"	"IN"	"US"	"46815"	"Bachelor's"	"CRIMINAL JUSTICE"	1999-07-01	6	12	NA	NA	15
+1073238	"1"	"Test"	"New York"	"NY"	"US"	"10031"	"Bachelor's"	"English"	2004-05-01	7	11	NA	NA	10
+1074120	"1"	"Test"	"Lauderhill"	"FL"	"US"	"33313"	"Associate's"	"Early Childhood Education and Teaching"	2011-12-01	7	16	NA	NA	15
+1075814	"1"	"Train"	"Fresno"	"CA"	"US"	"93720"	"None"	NA	NA	0	NA	NA	NA	0
+1077095	"1"	"Train"	"Bronx"	"NY"	"US"	"10472"	"None"	NA	NA	4	12	NA	NA	10
+1078518	"1"	"Test"	"Marietta"	"GA"	"US"	"30062"	"Bachelor's"	"Business Administration"	2012-01-01	10	22	NA	NA	0
+1080768	"1"	"Test"	"Greenwood"	"IN"	"US"	"46142"	"Associate's"	"Paralegal/Legal Assistant"	2012-05-01	5	9	NA	NA	0
+1081065	"1"	"Train"	"Noblesville"	"IN"	"US"	"46060"	"Bachelor's"	"Telecommunications"	NA	3	13	NA	NA	75
+1082968	"1"	"Train"	"Rancho Cordova"	"CA"	"US"	"95670"	"Associate's"	"Medical/Clinical Assistant/ Pharmacy Technician"	NA	4	20	NA	NA	15
+1083580	"1"	"Train"	"Clearwater"	"FL"	"US"	"33765"	"High School"	"Not Applicable"	1973-01-01	7	22	NA	NA	15
+1083751	"1"	"Train"	"Rockland"	"DE"	"US"	"19732"	"High School"	"Not Applicable"	NA	2	35	NA	NA	37
+1085855	"1"	"Train"	"Redlands"	"CA"	"US"	"92374"	"None"	"Business Administration"	NA	4	12	NA	NA	0
+1087796	"1"	"Train"	"Farmington Hills"	"MI"	"US"	"48335"	"Master's"	"Masters of Science in Industrial Engineering"	2012-06-01	4	5	NA	NA	8
+1089997	"1"	"Train"	"Joliet"	"IL"	"US"	"60433"	"None"	NA	2007-09-01	4	8	NA	NA	0
+1092232	"1"	"Train"	"Willingboro"	"NJ"	"US"	"08046"	"None"	"Information Systems"	2012-06-01	2	4	NA	NA	0
+1093026	"1"	"Train"	"Houston"	"TX"	"US"	"77063"	"None"	NA	NA	5	17	NA	NA	15
+1096015	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46224"	"High School"	"NA"	NA	4	13	NA	NA	0
+1097621	"1"	"Test"	"Sacramento"	"CA"	"US"	"95822"	"High School"	"Not Applicable"	NA	2	4	NA	NA	0
+1098855	"1"	"Test"	"Pompano Beach"	"FL"	"US"	"33060"	"Associate's"	"Medical Office Assistant/Specialist"	2010-01-01	3	4	NA	NA	0
+1099735	"1"	"Train"	"Kansas City"	"KS"	"US"	"66101"	"High School"	"Not Applicable"	NA	6	10	NA	NA	0
+1103110	"1"	"Train"	"Germantown"	"MD"	"US"	"20874"	"None"	"Business Administration"	NA	5	13	NA	NA	0
+1103249	"1"	"Train"	"Edison"	"NJ"	"US"	"08817"	"Bachelor's"	"Marketing Management"	2001-05-01	6	11	NA	NA	4
+1105171	"1"	"Train"	"Rockwall"	"TX"	"US"	"75032"	"None"	"Hotel and Institutional Management"	2000-05-01	6	10	NA	NA	45
+1105987	"1"	"Test"	"Irving"	"TX"	"US"	"75038"	"High School"	NA	2007-05-01	5	6	NA	NA	0
+1106159	"1"	"Train"	"Dallas"	"TX"	"US"	"75240"	"High School"	"HIGH SCHOOL DIPLOMA"	2009-06-01	4	3	NA	NA	0
+1107473	"1"	"Train"	"Mount Vernon"	"NY"	"US"	"10550"	"Associate's"	"Medical Assisting"	2013-06-01	3	5	NA	NA	0
+1108471	"1"	"Train"	"Desoto"	"TX"	"US"	"75115"	"High School"	"Not Applicable"	2011-06-01	0	NA	NA	NA	0
+1108582	"1"	"Train"	"North Lauderdale"	"FL"	"US"	"33068"	"High School"	"Education"	2009-01-01	4	6	NA	NA	1
+1109359	"1"	"Train"	"Laurel"	"MD"	"US"	"20707"	"Bachelor's"	"UMUC Business Administration"	2007-01-01	9	18	NA	NA	0
+1109761	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85041"	"Vocational"	"CNA"	2012-02-01	1	1	NA	NA	0
+1110432	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85043"	"High School"	"Not Applicable"	2011-05-01	3	2	NA	NA	0
+1111960	"1"	"Train"	"Richmond"	"VA"	"US"	"23231"	"Master's"	NA	2007-01-01	4	7	NA	NA	0
+1114621	"1"	"Test"	"Dallas"	"TX"	"US"	"75243"	"None"	"Business Administration/Supply Chain"	2012-06-01	3	7	NA	NA	0
+1117059	"1"	"Test"	"Boynton Beach"	"FL"	"US"	"33437"	"High School"	"Not Applicable"	2009-01-01	3	9	NA	NA	3
+1117082	"1"	"Train"	"Kirkland"	"IL"	"US"	"60146"	"Vocational"	"medicine"	2000-01-01	3	15	NA	NA	52
+1118303	"1"	"Test"	"Oklahoma City"	"OK"	"US"	"73106"	"Master's"	"MLA"	2005-05-01	1	1	NA	NA	10
+1118533	"1"	"Test"	"Indianapolis"	"IN"	"US"	"46206-3103"	"PhD"	NA	NA	4	11	NA	NA	5
+1120503	"1"	"Test"	"Winter Garden"	"FL"	"US"	"34787"	"Bachelor's"	NA	2011-08-01	2	4	NA	NA	0
+1122902	"1"	"Train"	"Pinckney"	"MI"	"US"	"48169"	"Bachelor's"	NA	1993-01-01	4	31	NA	NA	0
+1126876	"1"	"Test"	"Romulus"	"MI"	"US"	"48174"	"Master's"	NA	NA	4	10	NA	NA	0
+1127157	"1"	"Train"	"Atlanta"	"GA"	"US"	"30341"	"High School"	"Not Applicable"	2005-06-01	6	9	NA	NA	0
+1127206	"1"	"Test"	"Cliffside Park"	"NJ"	"US"	"07010"	"Master's"	"Electronics Communication and Computer Engineering"	NA	4	11	NA	NA	0
+1128797	"1"	"Train"	"Oakdale"	"CA"	"US"	"95361"	"Bachelor's"	"graphic design and corporate communications"	1997-01-01	1	0	NA	NA	0
+1129674	"1"	"Train"	"Greenfield"	"IN"	"US"	"46140"	"High School"	"Not Applicable"	2007-05-01	8	8	NA	NA	0
+1130011	"1"	"Train"	"West New York"	"NJ"	"US"	"07093"	"None"	NA	1987-01-01	4	16	NA	NA	0
+1130451	"1"	"Test"	"Caguas"	"PR"	"US"	"00725"	"Master's"	NA	NA	4	11	NA	NA	0
+1131464	"1"	"Train"	"Duncanville"	"TX"	"US"	"75116"	"None"	"Business"	NA	5	14	NA	NA	0
+1131798	"1"	"Test"	"Orangeburg"	"SC"	"US"	"29118"	"High School"	"Diploma"	1996-05-01	8	10	NA	NA	0
+1134511	"1"	"Train"	"Fort Lauderdale"	"FL"	"US"	"33305"	"None"	NA	NA	5	8	NA	NA	0
+1134930	"1"	"Test"	"Jersey City"	"NJ"	"US"	"07307"	"Bachelor's"	"Studies"	2008-05-01	5	10	NA	NA	5
+1135810	"1"	"Train"	"Chicago"	"IL"	"US"	"60608"	"None"	"Received license and certification 04914487"	2002-07-01	3	7	NA	NA	2
+1137660	"1"	"Train"	"Lisle"	"IL"	"US"	"60532"	"High School"	"General Studies"	2008-05-01	7	5	NA	NA	4
+1140500	"1"	"Train"	"Charlotte"	"NC"	"US"	"28273"	"High School"	"Engineering, Technology, and Science"	2009-06-01	3	5	NA	NA	0
+1141519	"1"	"Train"	"Pompano Beach"	"FL"	"US"	"33064"	"None"	NA	NA	4	7	NA	NA	0
+1147298	"1"	"Train"	"Spring"	"TX"	"US"	"77379"	"High School"	"All subjects"	1989-06-01	7	10	NA	NA	0
+1148741	"1"	"Test"	"Tawas City"	"MI"	"US"	"48763"	"Master's"	"Marketing"	NA	3	24	NA	NA	0
+1149849	"1"	"Train"	"Quakertown"	"PA"	"US"	"18951"	"Master's"	"Technology Management"	2005-01-01	0	NA	NA	NA	0
+1150344	"1"	"Train"	"Clermont"	"FL"	"US"	"34714"	"Bachelor's"	"Business Administration and Management, General"	2009-01-01	5	14	NA	NA	35
+1150425	"1"	"Test"	"Grand Blanc"	"MI"	"US"	"48439"	"None"	"Business Management"	2011-12-01	6	10	NA	NA	50
+1151126	"1"	"Train"	"Baltimore"	"MD"	"US"	"21215"	"Bachelor's"	NA	NA	5	5	NA	NA	0
+1151142	"1"	"Train"	"Raleigh"	"NC"	"US"	"27606"	"Bachelor's"	"Accounting"	2002-04-01	5	8	NA	NA	25
+1151402	"1"	"Train"	"Grayson"	"GA"	"US"	"30017"	"Master's"	"Hoffman"	2009-07-01	9	22	NA	NA	0
+1151542	"1"	"Test"	"Madison"	"NJ"	"US"	"07940"	"Bachelor's"	"Small Business"	NA	3	15	NA	NA	0
+1152354	"1"	"Train"	"New Castle"	"DE"	"US"	"19720"	"Associate's"	"Business"	1987-01-01	2	24	NA	NA	10
+1154535	"1"	"Train"	"Cutler Bay"	"FL"	"US"	"33190"	"High School"	"Not Applicable"	1996-06-01	5	11	NA	NA	0
+1155440	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19120"	"High School"	"cosmetology"	NA	7	12	NA	NA	0
+1156417	"1"	"Train"	"Rockford"	"IL"	"US"	"61101"	"High School"	"General Diploma"	2007-06-01	10	5	NA	NA	0
+1158179	"1"	"Test"	"Redford"	"MI"	"US"	"48240"	"High School"	"Not Applicable"	2001-01-01	1	9	NA	NA	0
+1159110	"1"	"Train"	"Las Vegas"	"NV"	"US"	"89108"	"None"	NA	NA	3	15	NA	NA	0
+1159279	"1"	"Train"	"Irving"	"TX"	"US"	"75038"	"Master's"	"Marketing Management and International Business"	2005-01-01	5	10	NA	NA	0
+1159365	"1"	"Test"	"Kansas City"	"MO"	"US"	"64131"	"High School"	"Not Applicable"	1985-01-01	5	17	NA	NA	0
+1160872	"1"	"Train"	"Austin"	"TX"	"US"	"78727"	"High School"	"Not Applicable"	NA	2	3	NA	NA	0
+1162041	"1"	"Train"	"Melrose Park"	"IL"	"US"	"60160"	"None"	NA	NA	3	11	NA	NA	4
+1166736	"1"	"Train"	"Miami"	"FL"	"US"	"33135"	"High School"	"Over all studies"	2005-02-01	4	6	NA	NA	0
+1167110	"1"	"Train"	"Houston"	"TX"	"US"	"77085"	"Bachelor's"	"Accounting"	NA	9	9	NA	NA	0
+1170893	"1"	"Train"	"Hurst"	"TX"	"US"	"76053"	"Bachelor's"	"Business"	NA	4	5	NA	NA	4
+1171292	"1"	"Test"	"Raleigh"	"NC"	"US"	"27603"	"High School"	"Not Applicable"	2006-06-01	5	8	NA	NA	0
+1172463	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76133"	"None"	NA	NA	0	NA	NA	NA	0
+1173321	"1"	"Test"	"Parlin"	"NJ"	"US"	"08859"	"Bachelor's"	"Construction Management"	1994-01-01	10	26	NA	NA	0
+1176211	"1"	"Train"	"Kansas City"	"KS"	"US"	"66112"	"Associate's"	"Network Engineering"	2002-06-01	4	14	NA	NA	0
+1177110	"1"	"Train"	"Los Angeles"	"CA"	"US"	"90001"	"Associate's"	"Automobile/Automotive Mechanics Technology/Technician"	2008-08-01	5	8	NA	NA	0
+1177509	"1"	"Train"	"El Paso"	"TX"	"US"	"79936"	"High School"	"Not Applicable"	NA	8	10	NA	NA	0
+1177760	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76119"	"High School"	"Not Applicable"	2006-03-01	3	4	NA	NA	0
+1177937	"1"	"Train"	"North Brunswick"	"NJ"	"US"	"08902"	"Master's"	"Human Resource Management & Development"	NA	2	3	NA	NA	5
+1178693	"1"	"Test"	"Kansas City"	"KS"	"US"	"66102"	"Master's"	"Business Administration and Management, General"	1997-07-01	2	10	NA	NA	200
+1181619	"1"	"Test"	"Marietta"	"GA"	"US"	"30062"	"Vocational"	"Business"	2002-01-01	4	19	NA	NA	0
+1186227	"1"	"Test"	"Hoover"	"AL"	"US"	"35216"	"High School"	NA	1992-06-01	3	6	NA	NA	100
+1186235	"1"	"Train"	"Redlands"	"CA"	"US"	"92373"	"Associate's"	"Business"	1994-01-01	3	6	NA	NA	5
+1187061	"1"	"Train"	"Pompano Beach"	"FL"	"US"	"33064"	"None"	"Cosmetology"	2007-11-01	4	10	NA	NA	0
+1187296	"1"	"Train"	"Rock Hill"	"SC"	"US"	"29730"	"High School"	"Not Applicable"	2008-06-01	4	5	NA	NA	0
+1188545	"1"	"Train"	"Washington"	"DC"	"US"	"20001"	"Bachelor's"	"Marketing/Business Administration"	NA	8	16	NA	NA	0
+1191447	"1"	"Train"	"Euless"	"TX"	"US"	"76039"	"Bachelor's"	"Computer Science"	2013-07-01	4	6	NA	NA	50
+1193573	"1"	"Test"	"Fort Worth"	"TX"	"US"	"76115"	"High School"	"Not Applicable"	1993-05-01	4	14	NA	NA	0
+1195218	"1"	"Test"	"Waterford"	"MI"	"US"	"48327"	"Bachelor's"	"Marketing"	2006-04-01	5	7	NA	NA	0
+1199763	"1"	"Train"	"Canton"	"GA"	"US"	"30115"	"None"	NA	NA	1	10	NA	NA	0
+1200153	"1"	"Test"	"Jacksonville"	"FL"	"US"	"32254"	"Bachelor's"	"Clinical Psychology"	2013-02-01	2	15	NA	NA	0
+1202282	"1"	"Test"	"Indianapolis"	"IN"	"US"	"46254"	"Master's"	NA	2009-05-01	5	6	NA	NA	0
+1202466	"1"	"Test"	"Hampton"	"VA"	"US"	"23669"	"Bachelor's"	"Business Administration"	2009-05-01	7	8	NA	NA	0
+1204330	"1"	"Train"	"Morrow"	"GA"	"US"	"30260"	"Bachelor's"	"Psychology"	1982-01-01	9	25	NA	NA	0
+1205572	"1"	"Test"	"Hollywood"	"FL"	"US"	"33020"	"High School"	"Not Applicable"	NA	4	11	NA	NA	0
+1206548	"1"	"Train"	"Miami"	"FL"	"US"	"33183"	"Associate's"	"Communications"	2009-11-01	5	6	NA	NA	5
+1206866	"1"	"Train"	"Hinesville"	"GA"	"US"	"31313"	"Bachelor's"	"Management Studies"	2011-05-01	10	10	NA	NA	0
+1208219	"1"	"Test"	"Southfield"	"MI"	"US"	"48076"	"Master's"	"Management"	2007-12-01	5	11	NA	NA	0
+1210365	"1"	"Train"	"Orange Park"	"FL"	"US"	"32073"	"High School"	"Not Applicable"	NA	6	9	NA	NA	0
+1210397	"1"	"Train"	"Kingston Springs"	"TN"	"US"	"37082"	"None"	NA	NA	5	18	NA	NA	30
+1212678	"1"	"Test"	"Overland Park"	"KS"	"US"	"66204"	"None"	"Medical Assistant Program"	2012-06-01	1	4	NA	NA	0
+1214768	"1"	"Train"	"Narragansett"	"RI"	"US"	"02882"	"Bachelor's"	"Biotechnology"	2009-01-01	3	4	NA	NA	0
+1216127	"1"	"Train"	"Grovetown"	"GA"	"US"	"30813"	"Bachelor's"	"Business Administration and Management, General"	2013-06-01	6	13	NA	NA	0
+1216891	"1"	"Train"	"Frisco"	"TX"	"US"	"75035"	"Bachelor's"	"Computer Science LSU"	NA	9	20	NA	NA	10
+1218901	"1"	"Train"	"Monroe"	"LA"	"US"	"71202"	"None"	"Marke"	NA	0	NA	NA	NA	14
+1219427	"1"	"Train"	"Miami"	"FL"	"US"	"33165"	"None"	"Medical Transcription"	1990-01-01	5	26	NA	NA	7
+1222100	"1"	"Train"	"Slatington"	"PA"	"US"	"18080"	"None"	NA	NA	4	3	NA	NA	0
+1222947	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19143"	"Bachelor's"	"Communications Arts & Science"	2009-08-01	4	3	NA	NA	0
+1224212	"1"	"Train"	"Lancaster"	"SC"	"US"	"29720"	"High School"	"Not Applicable"	NA	4	8	NA	NA	0
+1225184	"1"	"Train"	"Lawrenceville"	"GA"	"US"	"30046"	"None"	"Accounting and Organizational Leadership"	2007-01-01	6	7	NA	NA	0
+1226562	"1"	"Train"	"Montgomery"	"AL"	"US"	"36117"	"Bachelor's"	"Business Administration"	2010-01-01	5	11	NA	NA	0
+1229104	"1"	"Train"	"Tuscaloosa"	"AL"	"US"	"35401"	"Bachelor's"	"Advertising"	2012-05-01	9	9	NA	NA	0
+1231526	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19142"	"None"	NA	NA	7	10	NA	NA	0
+1231549	"1"	"Train"	"Miami"	"FL"	"US"	"33131"	"Bachelor's"	"Business Administration"	2005-01-01	3	4	NA	NA	0
+1234712	"1"	"Test"	"Bronx"	"NY"	"US"	"10458"	"Associate's"	"Liberal Arts"	2010-01-01	6	7	NA	NA	0
+1236174	"1"	"Train"	"Greenwood"	"IN"	"US"	"46143"	"None"	NA	2000-01-01	2	12	NA	NA	5
+1237620	"1"	"Train"	"Seagoville"	"TX"	"US"	"75159"	"None"	NA	NA	0	NA	NA	NA	0
+1238286	"1"	"Train"	"Yorktown"	"VA"	"US"	"23692"	"Bachelor's"	"Marketing"	NA	6	25	NA	NA	0
+1238439	"1"	"Train"	"Hanover Park"	"IL"	"US"	"60133"	"Vocational"	"Phlebotomy/Phlebotomist"	2011-03-01	6	7	NA	NA	0
+1239057	"1"	"Train"	"Saint Paul"	"MN"	"US"	"55106"	"None"	"Human Resources Management/Personnel Administration, General"	2013-06-01	1	1	NA	NA	0
+1239541	"1"	"Train"	"Dallas"	"TX"	"US"	"75246"	"None"	NA	NA	0	NA	NA	NA	0
+1240358	"1"	"Train"	"Garden Grove"	"CA"	"US"	"92840"	"Bachelor's"	NA	1994-01-01	4	10	NA	NA	0
+1240408	"1"	"Train"	"Maple Shade"	"NJ"	"US"	"08052"	"High School"	"Welding Engineering Technology/Technician"	1996-06-01	3	15	NA	NA	0
+1242190	"1"	"Train"	"Saint Louis"	"MO"	"US"	"63130"	"Bachelor's"	"Information Technology"	2005-01-01	5	12	NA	NA	0
+1245319	"1"	"Train"	"Frederick"	"MD"	"US"	"21702"	"Bachelor's"	"Foreign Affairs"	NA	6	15	NA	NA	0
+1247830	"1"	"Train"	"Elkton"	"MD"	"US"	"21921"	"Bachelor's"	"Drama and Dramatics/Theatre Arts, General"	1999-12-01	5	9	NA	NA	5
+1248042	"1"	"Train"	"Tinley Park"	"IL"	"US"	"60477"	"Master's"	"Health Services Administration"	2010-05-01	6	10	NA	NA	0
+1250557	"1"	"Train"	"New York"	"NY"	"US"	"10024"	"Bachelor's"	"Sociology and Spanish"	1995-01-01	7	17	NA	NA	0
+1250704	"1"	"Test"	"Nashville"	"TN"	"US"	"37209"	"Associate's"	"Medical Office Management/Administration"	NA	2	3	NA	NA	0
+1252994	"1"	"Train"	"Allen"	"TX"	"US"	"75013"	"None"	"Web Research"	2010-01-01	6	13	NA	NA	0
+1254582	"1"	"Test"	"Louisville"	"KY"	"US"	"40216"	"High School"	"GED"	1995-01-01	1	8	NA	NA	1
+1255173	"1"	"Test"	"Lake Villa"	"IL"	"US"	"60046"	"Bachelor's"	"Network and Communications Management"	2011-06-01	5	5	NA	NA	0
+1255677	"1"	"Train"	"Houston"	"TX"	"US"	"77036"	"Associate's"	"Computer Electronics and Engineering"	2012-07-01	4	10	NA	NA	8
+1257273	"1"	"Train"	"Detroit"	"MI"	"US"	"48223"	"High School"	"General"	1982-06-01	1	1	NA	NA	10
+1258419	"1"	"Train"	"Jacksboro"	"TN"	"US"	"37757"	"None"	NA	NA	3	20	NA	NA	125
+1261017	"1"	"Train"	"Aurora"	"IL"	"US"	"60502"	"None"	NA	NA	3	25	NA	NA	0
+1261298	"1"	"Train"	"Snellville"	"GA"	"US"	"30039"	"High School"	"Not Applicable"	2001-01-01	8	14	NA	NA	0
+1263855	"1"	"Test"	"Powell"	"TN"	"US"	"37849"	"None"	"education"	NA	7	20	NA	NA	20
+1267174	"1"	"Train"	"New York"	"NY"	"US"	"10065"	"Bachelor's"	"Psychology"	NA	3	6	NA	NA	0
+1267201	"1"	"Train"	"Fort Lauderdale"	"FL"	"US"	"33331"	"None"	NA	NA	5	7	NA	NA	0
+1268455	"1"	"Train"	"Santa Clarita"	"CA"	"US"	"91321"	"None"	NA	NA	4	30	NA	NA	0
+1272348	"1"	"Train"	"Miami"	"FL"	"US"	"33145"	"High School"	NA	2002-06-01	3	7	NA	NA	0
+1273645	"1"	"Train"	"Fayetteville"	"AR"	"US"	"72701"	"Master's"	"Information Systems Management"	2008-01-01	3	6	NA	NA	0
+1273986	"1"	"Test"	"Stockbridge"	"GA"	"US"	"30281"	"High School"	"Not Applicable"	1983-06-01	8	20	NA	NA	0
+1277523	"1"	"Train"	"North Miami"	"FL"	"US"	"33168"	"None"	NA	NA	5	6	NA	NA	0
+1282336	"1"	"Train"	"West Hartford"	"CT"	"US"	"06117"	"Bachelor's"	"Health Services/Allied Health/Health Sciences, General"	2005-12-01	4	8	NA	NA	8
+1283059	"1"	"Train"	"Hollywood"	"FL"	"US"	"33024"	"High School"	"General Studies"	1969-06-01	2	22	NA	NA	2
+1283906	"1"	"Train"	"Laurelton"	"NY"	"US"	"11413"	"None"	NA	NA	3	6	NA	NA	1
+1289863	"1"	"Train"	"Chicago"	"IL"	"US"	"60642"	"None"	NA	NA	0	NA	NA	NA	0
+1291392	"1"	"Train"	"Derby"	"KS"	"US"	"67037"	"High School"	"Not Applicable"	2007-01-01	3	2	NA	NA	0
+1292387	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45224"	"None"	NA	2012-03-01	2	4	NA	NA	0
+1292860	"1"	"Train"	"Royse City"	"TX"	"US"	"75189"	"None"	"Philosophy/Psychology"	2003-01-01	3	14	NA	NA	0
+1295840	"1"	"Test"	"Cheraw"	"SC"	"US"	"29520"	"Vocational"	"N.A.T.T.S Diploma"	1991-07-01	5	10	NA	NA	0
+1296406	"1"	"Train"	"Oceanside"	"CA"	"US"	"92056"	"None"	NA	NA	3	17	NA	NA	0
+1297177	"1"	"Train"	"Anaheim"	"CA"	"US"	"92804"	"None"	NA	NA	6	8	NA	NA	0
+1297207	"1"	"Test"	"Indianapolis"	"IN"	"US"	"46241"	"High School"	"business law and business finances"	2001-05-01	3	11	NA	NA	40
+1301842	"1"	"Train"	"Pinellas Park"	"FL"	"US"	"33782"	"None"	"Business Administration and Management"	NA	8	21	NA	NA	0
+1302565	"1"	"Train"	"Norfolk"	"VA"	"US"	"23503"	"PhD"	"English"	1970-01-01	8	7	NA	NA	10
+1303853	"1"	"Train"	"Cincinnati"	"OH"	"US"	"45240"	"Master's"	"Religious Counseling"	NA	10	23	NA	NA	0
+1304674	"1"	"Train"	"Gary"	"IN"	"US"	"46404"	"High School"	"Diploma"	2003-07-01	4	10	NA	NA	0
+1305048	"1"	"Train"	"Hackensack"	"NJ"	"US"	"07601"	"Bachelor's"	"Advertising Art Direction"	NA	3	10	NA	NA	20
+1307653	"1"	"Train"	"Levittown"	"NY"	"US"	"11756"	"Associate's"	"Criminal Law"	2006-01-01	5	14	NA	NA	0
+1307704	"1"	"Train"	"Sachse"	"TX"	"US"	"75048"	"Bachelor's"	"BUSINESS INFORMATION SYSTEMS"	2012-04-01	5	23	NA	NA	3
+1308880	"1"	"Train"	"Brooklyn"	"NY"	"US"	"11221"	"High School"	"Computer Science"	2004-12-01	5	8	NA	NA	10
+1309261	"1"	"Train"	"Houston"	"TX"	"US"	"77077"	"None"	NA	NA	5	13	NA	NA	0
+1309577	"1"	"Train"	"Newton"	"KS"	"US"	"67114"	"None"	"Medical Assistant / Limited Scope X"	2011-01-01	4	7	NA	NA	0
+1309792	"1"	"Test"	"Haltom City"	"TX"	"US"	"76117"	"None"	"Information Word Processing"	NA	8	21	NA	NA	0
+1310512	"1"	"Train"	"Hendersonville"	"TN"	"US"	"37075"	"Bachelor's"	NA	2009-01-01	4	14	NA	NA	0
+1310661	"1"	"Train"	"San Antonio"	"TX"	"US"	"78251"	"Bachelor's"	"Business Professional Studies"	NA	7	16	NA	NA	0
+1310681	"1"	"Train"	"Plainsboro"	"NJ"	"US"	"08536"	"None"	NA	NA	3	32	NA	NA	8
+1312055	"1"	"Test"	"Humble"	"TX"	"US"	"77396"	"Bachelor's"	"professional writing"	2000-01-01	5	10	NA	NA	117
+1313032	"1"	"Train"	"New York"	"NY"	"US"	"10029"	"Bachelor's"	"Accounting"	2008-06-01	5	6	NA	NA	0
+1314884	"1"	"Train"	"Wichita"	"KS"	"US"	"67211"	"Bachelor's"	"Accounting"	2013-05-01	4	5	NA	NA	13
+1314938	"1"	"Train"	"Washington"	"DC"	"US"	"20011"	"Bachelor's"	"Voice"	2003-05-01	5	11	NA	NA	0
+1315450	"1"	"Test"	"Kennesaw"	"GA"	"US"	"30144"	"Associate's"	"Business Administration, Management and Operations, Other"	1986-05-01	7	22	NA	NA	0
+1315642	"1"	"Train"	"East Greenville"	"PA"	"US"	"18041"	"Bachelor's"	"History & Minor Pre-Law"	2008-12-01	6	7	NA	NA	0
+1317124	"1"	"Train"	"Cheverly"	"MD"	"US"	"20785"	"Associate's"	NA	NA	8	12	NA	NA	0
+1317328	"1"	"Train"	"Overland Park"	"KS"	"US"	"66214"	"Associate's"	"Health Information Management and Coding"	2013-07-01	8	5	NA	NA	0
+1320052	"1"	"Train"	"Tamarac"	"FL"	"US"	"33321"	"Vocational"	"CULINARY ARTS NUTRITION"	2008-10-01	5	5	NA	NA	8
+1321079	"1"	"Test"	"North Bergen"	"NJ"	"US"	"07047"	"Master's"	"International Business"	2002-01-01	5	10	NA	NA	0
+1321756	"1"	"Train"	"Florence"	"KY"	"US"	"41042"	"None"	NA	NA	8	23	NA	NA	0
+1324454	"1"	"Train"	"Kansas City"	"KS"	"US"	"66104"	"None"	NA	NA	3	14	NA	NA	5
+1324656	"1"	"Train"	"Colleyville"	"TX"	"US"	"76034"	"Master's"	"Finance"	NA	0	NA	NA	NA	45
+1324772	"1"	"Train"	"Indianapolis"	"IN"	"US"	"46218"	"Bachelor's"	"Computer Information Systems"	2012-05-01	2	2	NA	NA	0
+1325368	"1"	"Test"	"Glasgow"	"KY"	"US"	"42141"	"High School"	"Building Trades"	1976-01-01	6	26	NA	NA	50
+1325874	"1"	"Test"	"Chicago"	"IL"	"US"	"60643"	"High School"	"Not Applicable"	1988-06-01	4	18	NA	NA	0
+1330349	"1"	"Train"	"Cordova"	"TN"	"US"	"38016"	"Bachelor's"	"Business Administration"	1977-05-01	6	34	NA	NA	10
+1331757	"1"	"Test"	"Agoura Hills"	"CA"	"US"	"91301"	"Bachelor's"	"Liberal Studies"	2008-06-01	4	13	NA	NA	0
+1333866	"1"	"Train"	"Hamilton"	"NJ"	"US"	"08619"	"None"	"Real Estate Licensing Course"	2005-08-01	7	13	NA	NA	0
+1334505	"1"	"Test"	"Lafayette"	"IN"	"US"	"47905"	"Master's"	"Accounting"	2011-01-01	4	7	NA	NA	7
+1334892	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76101"	"Associate's"	"Psychology"	NA	3	1	NA	NA	0
+1336433	"1"	"Test"	"Miami"	"FL"	"US"	"33177"	"High School"	"diploma"	1993-01-01	6	17	NA	NA	5
+1337708	"1"	"Train"	"Chicago"	"IL"	"US"	"60637"	"None"	NA	NA	5	17	NA	NA	0
+1339281	"1"	"Train"	"Jacksonville"	"FL"	"US"	"32244"	"Associate's"	"Medical"	1986-06-01	6	8	NA	NA	150
+1340649	"1"	"Train"	"Staunton"	"VA"	"US"	"24401"	"Bachelor's"	"Psychology"	2010-05-01	4	9	NA	NA	0
+1340909	"1"	"Train"	"Charlotte"	"NC"	"US"	"28269"	"Bachelor's"	"Computer Science/ Information Technology"	2001-12-01	9	15	NA	NA	0
+1343629	"1"	"Test"	"Saint Louis"	"MO"	"US"	"63136"	"High School"	"Welding Technology/Welder"	2009-05-01	6	4	NA	NA	0
+1344153	"1"	"Train"	"Providence"	"RI"	"US"	"02909"	"High School"	"Not Applicable"	1996-01-01	6	14	NA	NA	20
+1344341	"1"	"Test"	"Clinton"	"MD"	"US"	"20735"	"Associate's"	"Business Administrative"	2009-01-01	6	14	NA	NA	11
+1344701	"1"	"Test"	"Bronx"	"NY"	"US"	"10468"	"High School"	"Not Applicable"	1979-06-01	3	19	NA	NA	0
+1345126	"1"	"Test"	"Chicago"	"IL"	"US"	"60620"	"High School"	"NURSING"	2005-07-01	3	6	NA	NA	0
+1347348	"1"	"Train"	"Carleton"	"MI"	"US"	"48117"	"Associate's"	"Automotive Technology"	2006-01-01	6	26	NA	NA	30
+1349202	"1"	"Train"	"Jacksonville"	"FL"	"US"	"32210"	"High School"	"Not Applicable"	NA	1	10	NA	NA	0
+1353338	"1"	"Test"	"Miami"	"FL"	"US"	"33166"	"High School"	"Not Applicable"	2004-01-01	4	11	NA	NA	5
+1353868	"1"	"Train"	"Hollywood"	"FL"	"US"	"33021"	"Master's"	"Information Technology"	NA	8	12	NA	NA	0
+1357212	"1"	"Train"	"Austin"	"TX"	"US"	"78752"	"Vocational"	"Certified Pharmacy Technician"	2005-05-01	10	14	NA	NA	25
+1358832	"1"	"Test"	"Dallas"	"TX"	"US"	"75212"	"Master's"	"Electrical Engineering"	1989-05-01	1	60	NA	NA	0
+1361088	"1"	"Train"	"Redford"	"MI"	"US"	"48240"	"Associate's"	"Business Administration"	2003-06-01	2	7	NA	NA	6
+1362627	"1"	"Test"	"Peoria"	"AZ"	"US"	"85382"	"High School"	"Not Applicable"	1984-01-01	7	29	NA	NA	0
+1363810	"1"	"Test"	"Rochester"	"NY"	"US"	"14606"	"Master's"	"Accounting - Cumulative"	2010-05-01	2	8	NA	NA	10
+1366388	"1"	"Train"	"Palatine"	"IL"	"US"	"60074"	"Bachelor's"	"Medical Insurance Billing and Coding"	2011-01-01	9	13	NA	NA	0
+1366603	"1"	"Train"	"Wichita"	"KS"	"US"	"67211"	"Bachelor's"	"Science of Business"	2014-05-01	2	0	NA	NA	0
+1369189	"1"	"Train"	"Bellevue"	"OH"	"US"	"44811"	"Bachelor's"	"Business Administration"	2007-01-01	4	13	NA	NA	9
+1370008	"1"	"Test"	"Atlanta"	"GA"	"US"	"30342"	"Bachelor's"	"Communication and History"	1993-06-01	5	15	NA	NA	0
+1370259	"1"	"Test"	"Chicago"	"IL"	"US"	"60628"	"High School"	NA	2002-01-01	3	8	NA	NA	0
+1371528	"1"	"Train"	"Orlando"	"FL"	"US"	"32805"	"Bachelor's"	"Business Administration"	1998-07-01	10	10	NA	NA	0
+1373279	"1"	"Train"	"Decatur"	"GA"	"US"	"30034"	"None"	"Business Management"	2011-08-01	7	22	NA	NA	0
+1375579	"1"	"Test"	"Dallas"	"TX"	"US"	"75243"	"High School"	"Not Applicable"	1996-01-01	3	15	NA	NA	0
+1376023	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85007"	"None"	"Computer/Customer Service"	2006-12-01	4	20	NA	NA	10
+1384887	"1"	"Train"	"Carteret"	"NJ"	"US"	"07008"	"None"	"Accounting"	NA	2	10	NA	NA	0
+1385268	"1"	"Train"	"Plainfield"	"NJ"	"US"	"07063"	"High School"	"Not Applicable"	2006-01-01	3	5	NA	NA	0
+1385734	"1"	"Train"	"Baltimore"	"MD"	"US"	"21214"	"Master's"	"Business Administration/ International Business"	2015-06-01	4	26	NA	NA	23
+1386391	"1"	"Train"	"Fort Worth"	"TX"	"US"	"76106"	"High School"	NA	2005-01-01	6	3	NA	NA	0
+1386453	"1"	"Train"	"Tampa"	"FL"	"US"	"33614"	"Bachelor's"	"Political Science"	2003-12-01	8	13	NA	NA	0
+1388630	"1"	"Test"	"Forest Hill"	"MD"	"US"	"21050"	"Master's"	"EDUCATION"	2000-01-01	8	14	NA	NA	0
+1392970	"1"	"Train"	"Forked River"	"NJ"	"US"	"08731"	"None"	NA	1999-01-01	5	16	NA	NA	0
+1393718	"1"	"Train"	"Selma"	"AL"	"US"	"36703"	"None"	"Business Administration/Medical Billing"	1996-05-01	5	14	NA	NA	15
+1394249	"1"	"Train"	"Allentown"	"PA"	"US"	"18102"	"None"	NA	NA	3	8	NA	NA	0
+1396499	"1"	"Test"	"Aventura"	"FL"	"US"	"33180"	"None"	NA	NA	0	NA	NA	NA	0
+1397927	"1"	"Test"	"Terrell"	"NC"	"US"	"28682"	"Associate's"	"HR Management"	2007-03-01	3	7	NA	NA	0
+1401320	"1"	"Train"	"Phoenix"	"AZ"	"US"	"85009"	"High School"	"Not Applicable"	NA	10	10	NA	NA	0
+1405598	"1"	"Train"	"Centereach"	"NY"	"US"	"11720"	"None"	NA	NA	4	6	NA	NA	8
+1406757	"1"	"Test"	"Las Vegas"	"NV"	"US"	"89110"	"None"	"Business Administration w"	NA	5	13	NA	NA	0
+1409963	"1"	"Test"	"Westminster"	"CO"	"US"	"80021"	"Bachelor's"	"Advertising and Public Relations"	2005-05-01	6	15	NA	NA	0
+1414714	"1"	"Train"	"Fort Lauderdale"	"FL"	"US"	"33338"	"Associate's"	"Nursing"	1996-01-01	9	14	NA	NA	25
+1414774	"1"	"Train"	"Mesa"	"AZ"	"US"	"85201"	"Vocational"	"Clinical Medical Assistant"	2009-04-01	5	7	NA	NA	2
+1414967	"1"	"Test"	"Riverdale"	"GA"	"US"	"30274"	"Master's"	NA	2010-01-01	8	15	NA	NA	2
+1420015	"1"	"Train"	"Duncanville"	"TX"	"US"	"75116"	"Master's"	"Music"	1987-01-01	8	12	NA	NA	0
+1421368	"1"	"Train"	"Grand Prairie"	"TX"	"US"	"75052"	"High School"	NA	2009-01-01	2	3	NA	NA	0
+1423139	"1"	"Train"	"Chicago"	"IL"	"US"	"60643"	"Bachelor's"	"Sociology"	1990-05-01	7	22	NA	NA	70
+1423308	"1"	"Train"	"Louisville"	"KY"	"US"	"40214"	"Associate's"	"Psychology, General"	2012-05-01	3	7	NA	NA	25
+1423455	"1"	"Test"	"Phoenix"	"AZ"	"US"	"85042"	"High School"	"Not Applicable"	2009-01-01	6	6	NA	NA	0
+1424693	"1"	"Train"	"Maywood"	"NJ"	"US"	"07607"	"Bachelor's"	"Political Science"	2011-02-01	5	4	NA	NA	0
+1426220	"1"	"Test"	"Peoria"	"AZ"	"US"	"85383"	"High School"	"Not Applicable"	1999-01-01	5	15	NA	NA	0
+1428001	"1"	"Train"	"Apex"	"NC"	"US"	"27539"	"None"	"English"	2007-01-01	3	9	NA	NA	150
+1428708	"1"	"Test"	"Memphis"	"TN"	"US"	"38116"	"Bachelor's"	"Finance"	2010-08-01	3	4	NA	NA	0
+1431554	"1"	"Train"	"Hutto"	"TX"	"US"	"78634"	"High School"	"Not Applicable"	2008-05-01	7	6	NA	NA	0
+1431590	"1"	"Train"	"Hamilton"	"NJ"	"US"	"08619"	"Master's"	"Social Work"	2013-05-01	5	3	NA	NA	0
+1431802	"1"	"Train"	"Wichita"	"KS"	"US"	"67213"	"None"	NA	NA	6	8	NA	NA	0
+1433654	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19115"	"None"	"Human Resources"	2009-01-01	3	10	NA	NA	20
+1434196	"1"	"Train"	"Wichita"	"KS"	"US"	"67216"	"Associate's"	NA	2008-10-01	6	10	NA	NA	0
+1434231	"1"	"Test"	"Westland"	"MI"	"US"	"48185"	"Bachelor's"	"Business Administration"	1985-08-01	6	22	NA	NA	0
+1436024	"1"	"Train"	"Arlington"	"TX"	"US"	"76017"	"None"	NA	2012-01-01	5	9	NA	NA	0
+1437848	"1"	"Train"	"Saint Louis"	"MO"	"US"	"63121"	"Bachelor's"	"Corporate Communication Arts"	2012-06-01	7	10	NA	NA	0
+1440396	"1"	"Test"	"Chicago"	"IL"	"US"	"60655"	"None"	"studies in Corporate"	NA	2	22	NA	NA	0
+1445387	"1"	"Train"	"Bellwood"	"IL"	"US"	"60104"	"High School"	NA	2007-05-01	8	4	NA	NA	5
+1445884	"1"	"Train"	"Richmond"	"TX"	"US"	"77407"	"High School"	"Not Applicable"	2005-05-01	0	NA	NA	NA	0
+1446584	"1"	"Train"	"Van Nuys"	"CA"	"US"	"91405"	"Master's"	NA	2007-01-01	4	16	NA	NA	10
+1448156	"1"	"Test"	"Des Plaines"	"IL"	"US"	"60016"	"Bachelor's"	"General"	2009-01-01	4	8	NA	NA	3
+1448561	"1"	"Train"	"Prole"	"IA"	"US"	"50229"	"None"	"General, Psychology, and Sociology"	2010-08-01	7	15	NA	NA	0
+1449354	"1"	"Test"	"Euless"	"TX"	"US"	"76040"	"Bachelor's"	"Film Analysis"	2004-12-01	4	13	NA	NA	0
+1449640	"1"	"Train"	"Antioch"	"TN"	"US"	"37013"	"High School"	"Not Applicable"	2005-05-01	10	7	NA	NA	0
+1452195	"1"	"Train"	"Richboro"	"PA"	"US"	"18954"	"Associate's"	NA	1975-01-01	9	27	NA	NA	4
+1453700	"1"	"Test"	"Chicago"	"IL"	"US"	"60611"	"Bachelor's"	"Corporate Finance"	2002-01-01	2	12	NA	NA	0
+1456379	"1"	"Train"	"Philadelphia"	"PA"	"US"	"19136"	"High School"	"Not Applicable"	NA	6	14	NA	NA	0
+1458320	"1"	"Train"	"New York"	"NY"	"US"	"10027"	"None"	NA	NA	0	NA	NA	NA	0
+1463327	"1"	"Test"	"Waterbury"	"CT"	"US"	"06705"	"Bachelor's"	"Accounting"	2007-01-01	2	35	NA	NA	0
+1465663	"1"	"Train"	"Dallas"	"GA"	"US"	"30157"	"PhD"	"Government Contracting"	2010-05-01	4	35	NA	NA	0
+1466842	"1"	"Test"	"Fairfield"	"OH"	"US"	"45018"	"Bachelor's"	"Technical Management"	2011-10-01	4	5	NA	NA	0
+1468348	"1"	"Train"	"New York"	"NY"	"US"	"10023"	"Bachelor's"	"Accounting"	NA	7	27	NA	NA	0
+1468799	"1"	"Train"	"Hobart"	"IN"	"US"	"46342"	"High School"	"Not Applicable"	1983-01-01	3	11	NA	NA	0
+1469320	"1"	"Train"	"Chicago"	"IL"	"US"	"60609"	"Associate's"	NA	2006-06-01	5	5	NA	NA	0
+48786	"2"	"Train"	"Chicago"	"IL"	"US"	"60644"	"None"	"Accounting"	2013-08-01	3	6	NA	NA	20
+81562	"2"	"Train"	"Scurry"	"TX"	"US"	"75158"	"High School"	"Graduated"	1974-05-01	5	21	NA	NA	0
+111373	"2"	"Test"	"North Miami Beach"	"FL"	"US"	"33160"	"None"	NA	NA	5	19	NA	NA	20
+113665	"2"	"Train"	"Atlanta"	"GA"	"US"	"30312"	"None"	"Theatre Art and Communications"	NA	4	6	NA	NA	16
+119028	"2"	"Test"	"Cypress"	"CA"	"US"	"90630"	"PhD"	"Engineering"	2008-05-01	7	17	NA	NA	5
+121096	"2"	"Train"	"Elkhart"	"IN"	"US"	"46517"	"Bachelor's"	"Journalism"	1983-12-01	10	26	NA	NA	0
+144466	"2"	"Test"	"Dolton"	"IL"	"US"	"60419"	"Bachelor's"	"Biology/Biological Sciences, General"	1995-05-01	6	15	NA	NA	15
+148084	"2"	"Train"	"Baltimore"	"MD"	"US"	"21229"	"None"	NA	NA	0	NA	NA	NA	0
+157113	"2"	"Train"	"Indianapolis"	"IN"	"US"	"46239"	"None"	NA	NA	6	5	NA	NA	0
+164835	"2"	"Test"	"Litchfield Park"	"AZ"	"US"	"85340"	"High School"	"Not Applicable"	2003-06-01	4	7	NA	NA	3
+173035	"2"	"Train"	"Wildomar"	"CA"	"US"	"92595"	"Master's"	"Information Technology"	NA	4	12	NA	NA	1
+178952	"2"	"Train"	"Lynwood"	"IL"	"US"	"60411"	"Master's"	"Human Resources Management and Services"	2009-10-01	5	8	NA	NA	0
+191969	"2"	"Train"	"San Diego"	"CA"	"US"	"92115"	"None"	NA	2014-06-01	0	NA	NA	NA	0
+198051	"2"	"Test"	"Blue Island"	"IL"	"US"	"60406"	"Bachelor's"	"Business Management"	NA	3	10	NA	NA	100
+229296	"2"	"Train"	"Mesa"	"AZ"	"US"	"85204"	"Bachelor's"	"Communication"	2000-01-01	3	12	NA	NA	0
+237645	"2"	"Train"	"Los Angeles"	"CA"	"US"	"90007"	"Master's"	"Mechanical Engineering"	2011-12-01	4	2	NA	NA	25
+239403	"2"	"Test"	"Phoenix"	"AZ"	"US"	"85014"	"Bachelor's"	"Graphic Design"	NA	4	10	NA	NA	0
+248599	"2"	"Train"	"Garfield"	"NJ"	"US"	"07026"	"High School"	NA	1982-06-01	1	19	NA	NA	4
+256739	"2"	"Train"	"New York"	"NY"	"US"	"10003"	"Bachelor's"	"Business"	NA	1	20	NA	NA	20
+267876	"2"	"Train"	"Columbia"	"SC"	"US"	"29203"	"High School"	"Not Applicable"	NA	7	12	NA	NA	0
+268452	"2"	"Train"	"Lees Summit"	"MO"	"US"	"64064"	"Bachelor's"	"Psychology"	2012-06-01	7	18	NA	NA	0
+277715	"2"	"Test"	"San Jose"	"CA"	"US"	"95123"	"Bachelor's"	"Industrial Engineering-Manufacturing"	1989-08-01	6	23	NA	NA	86
+279539	"2"	"Train"	"Tucson"	"AZ"	"US"	"85743"	"Master's"	NA	2005-01-01	5	3	NA	NA	0
+283610	"2"	"Test"	"Lawrenceville"	"GA"	"US"	"30043"	"None"	NA	NA	3	4	NA	NA	7
+290620	"2"	"Test"	"North Brunswick"	"NJ"	"US"	"08902"	"Associate's"	NA	NA	3	6	NA	NA	90
+304382	"2"	"Train"	"Chino Hills"	"CA"	"US"	"91709"	"None"	NA	NA	0	NA	NA	NA	0
+319434	"2"	"Train"	"East York"	"Ontario"	"CA"	NA	"Bachelor's"	NA	1988-01-01	10	16	NA	NA	50
+413638	"2"	"Train"	"Lauderdale Lakes"	"FL"	"US"	"33319"	"High School"	"Not Applicable"	2010-06-01	2	1	NA	NA	0
+433381	"2"	"Test"	"Cherry Hill"	"NJ"	"US"	"08002"	"Associate's"	"Criminal Justice"	NA	3	5	NA	NA	0
+487099	"2"	"Test"	"Bronx"	"NY"	"US"	"10475"	"Bachelor's"	"Science Business Administration"	1986-01-01	10	12	NA	NA	0
+499570	"2"	"Test"	"Tahlequah"	"OK"	"US"	"74465"	"None"	NA	NA	10	8	NA	NA	0
+505162	"2"	"Test"	"Raleigh"	"NC"	"US"	"27612"	"Associate's"	"Computer programming"	NA	2	6	NA	NA	3
+526663	"2"	"Test"	"Opa-Locka"	"FL"	"US"	"33054"	"None"	NA	NA	0	NA	NA	NA	0
+535274	"2"	"Test"	"Irving"	"TX"	"US"	"75038"	"None"	"Business Marketing"	NA	3	8	NA	NA	20
+608731	"2"	"Train"	"Detroit"	"MI"	"US"	"48212"	"Vocational"	"Information Technology Networking Administration"	1989-09-01	5	16	NA	NA	20
+649527	"2"	"Train"	"Los Angeles"	"CA"	"US"	"90002"	"Vocational"	"Health/Medical Claims Examiner/ Medical Billing"	2010-07-01	4	10	NA	NA	0
+681470	"2"	"Test"	"Lindenwold"	"NJ"	"US"	"08021"	"Bachelor's"	NA	2009-06-01	4	4	NA	NA	0
+712453	"2"	"Train"	"Tucson"	"AZ"	"US"	"85706"	"None"	NA	NA	0	NA	NA	NA	0
+730727	"2"	"Train"	"Nashville"	"TN"	"US"	"37210"	"Associate's"	"Business Administration, Management and Operations"	2013-10-01	8	8	NA	NA	0
+730891	"2"	"Test"	"Orange"	"CA"	"US"	"92865"	"Master's"	"International Business"	2011-02-01	3	17	NA	NA	20
+761582	"2"	"Train"	"Yelm"	"WA"	"US"	"98597"	"Master's"	"Public Administration"	2012-08-01	10	16	NA	NA	62
+762663	"2"	"Test"	"Phoenix"	"AZ"	"US"	"85041"	"None"	NA	NA	2	1	NA	NA	0
+768033	"2"	"Train"	"West Hartford"	"CT"	"US"	"06119"	"Associate's"	"Computer Assisted Business Management"	2004-01-01	6	13	NA	NA	0
+790532	"2"	"Train"	"La Plata"	"MD"	"US"	"20646"	"None"	NA	NA	4	17	NA	NA	0
+818234	"2"	"Test"	"Waller"	"TX"	"US"	"77484"	"Associate's"	"Arts / Political Sciences"	2003-05-01	5	12	NA	NA	350
+825445	"2"	"Test"	"Sterling"	"VA"	"US"	"20164"	"Bachelor's"	"Electrical Engineering"	1992-12-01	5	20	NA	NA	0
+835899	"2"	"Test"	"Sherwood"	"AR"	"US"	"72120"	"Associate's"	"Computer Science"	2005-05-01	3	13	NA	NA	300
+845384	"2"	"Test"	"Willoughby"	"OH"	"US"	"44094"	"Master's"	"Computer Engineering"	NA	6	5	NA	NA	0
+851263	"2"	"Test"	"Columbus"	"GA"	"US"	"31904"	"Bachelor's"	"Biology"	2006-05-01	4	13	NA	NA	32
+853896	"2"	"Train"	"Atlanta"	"GA"	"US"	"30310"	"Master's"	NA	2003-01-01	5	13	NA	NA	0
+854690	"2"	"Test"	"Dallas"	"TX"	"US"	"75216"	"None"	NA	NA	1	3	NA	NA	0
+870143	"2"	"Test"	"Stone Mountain"	"GA"	"US"	"30083"	"Bachelor's"	"Management"	2006-12-01	4	5	NA	NA	0
+882626	"2"	"Train"	"Baton Rouge"	"LA"	"US"	"70806"	"None"	NA	NA	0	NA	NA	NA	0
+921909	"2"	"Train"	"Orlando"	"FL"	"US"	"32810"	"None"	NA	NA	4	12	NA	NA	0
+932408	"2"	"Train"	"Brooklyn"	"NY"	"US"	"11223"	"Bachelor's"	"Business Management and Finance"	2010-01-01	5	12	NA	NA	8
+973124	"2"	"Train"	"Belleville"	"IL"	"US"	"62221"	"None"	NA	NA	0	NA	NA	NA	0
+974912	"2"	"Test"	"East Saint Louis"	"IL"	"US"	"62205"	"High School"	"General Studies"	2007-05-01	1	2	NA	NA	3
+991514	"2"	"Train"	"Barnegat"	"NJ"	"US"	"08005"	"Master's"	"Accounting"	1993-03-01	9	19	NA	NA	0
+993574	"2"	"Train"	"Lake Hiawatha"	"NJ"	"US"	"07034"	"None"	NA	NA	0	NA	NA	NA	0
+997872	"2"	"Train"	"Houston"	"TX"	"US"	"77079"	"Bachelor's"	"Marketing/Business Administration"	1967-11-01	3	17	NA	NA	125
+1024249	"2"	"Test"	"Philadelphia"	"PA"	"US"	"19143"	"None"	NA	1995-01-01	5	14	NA	NA	0
+1041115	"2"	"Train"	"Saukville"	"WI"	"US"	"53080"	"Associate's"	"Marketing and Business"	1996-01-01	2	8	NA	NA	0
+1051836	"2"	"Train"	"Bayville"	"NJ"	"US"	"08721"	"None"	"Emergency Medicine"	1997-01-01	6	18	NA	NA	0
+1082436	"2"	"Train"	"Forked River"	"NJ"	"US"	"08731"	"Bachelor's"	"Business Management"	2011-08-01	2	7	NA	NA	0
+1106511	"2"	"Train"	"Des Plaines"	"IL"	"US"	"60016"	"High School"	NA	1990-06-01	7	8	NA	NA	0
+1117760	"2"	"Test"	"Ocean Springs"	"MS"	"US"	"39565"	"High School"	NA	2001-05-01	4	10	NA	NA	4
+1152989	"2"	"Train"	"Tempe"	"AZ"	"US"	"85282"	"Bachelor's"	"Multimedia Design and Development"	NA	5	6	NA	NA	0
+1158857	"2"	"Train"	"Buffalo Grove"	"IL"	"US"	"60089"	"None"	NA	NA	6	13	NA	NA	0
+1167860	"2"	"Train"	"Pembroke Pines"	"FL"	"US"	"33023"	"Associate's"	NA	NA	4	6	NA	NA	0
+1167893	"2"	"Train"	"Miami"	"FL"	"US"	"33165"	"High School"	NA	1997-06-01	5	12	NA	NA	5
+1178834	"2"	"Train"	"Glendale"	"CA"	"US"	"91204"	"Bachelor's"	NA	2004-05-01	5	9	NA	NA	0
+1180549	"2"	"Train"	"Plantation"	"FL"	"US"	"33317"	"High School"	"diploma"	2005-01-01	3	6	NA	NA	0
+1193132	"2"	"Train"	"Louisville"	"KY"	"US"	"40220"	"Bachelor's"	"Business"	1989-05-01	4	13	NA	NA	0
+1193346	"2"	"Train"	"Natchitoches"	"LA"	"US"	"71457"	"None"	"Education"	NA	5	13	NA	NA	0
+1194815	"2"	"Train"	"Spencer"	"NC"	"US"	"28159"	"Associate's"	"Religion"	NA	8	23	NA	NA	25
+1243667	"2"	"Train"	"Midland"	"MI"	"US"	"48642"	"Bachelor's"	"Business Administration/Management"	2012-06-01	1	4	NA	NA	15
+1245380	"2"	"Test"	"Brooklyn"	"NY"	"US"	"11206"	"Associate's"	"Human Services"	2012-06-01	3	5	NA	NA	4
+1247777	"2"	"Train"	"Pleasant Prairie"	"WI"	"US"	"53158"	"High School"	"Not Applicable"	NA	5	6	NA	NA	0
+1260221	"2"	"Test"	"Atlanta"	"GA"	"US"	"30310"	"Bachelor's"	"Human Resource Management"	2012-06-01	8	8	NA	NA	10
+1283613	"2"	"Train"	"Brooklyn"	"NY"	"US"	"11223"	"None"	NA	NA	5	7	NA	NA	12
+1284800	"2"	"Test"	"Dallas"	"TX"	"US"	"75241"	"Associate's"	"Respiratory Therapist"	2010-07-01	3	6	NA	NA	0
+1287770	"2"	"Train"	"Fort Worth"	"TX"	"US"	"76134"	"Associate's"	NA	2007-01-01	4	14	NA	NA	0
+1292413	"2"	"Train"	"Goldston"	"NC"	"US"	"27252"	"Associate's"	"Electronic Technology/Engineering"	1997-08-01	4	14	NA	NA	200
+1293629	"2"	"Train"	"Maricopa"	"AZ"	"US"	"85139"	"Master's"	"Management"	2006-01-01	4	23	NA	NA	50
+1311695	"2"	"Test"	"Miami"	"FL"	"US"	"33126"	"Bachelor's"	"Business Administration"	1985-01-01	6	20	NA	NA	0
+1319848	"2"	"Test"	"Lenexa"	"KS"	"US"	"66215"	"Bachelor's"	NA	2012-03-01	4	11	NA	NA	0
+1338393	"2"	"Train"	"Cincinnati"	"OH"	"US"	"45230"	"None"	"Engineering"	NA	10	10	NA	NA	5
+1339401	"2"	"Train"	"Sun City"	"CA"	"US"	"92586"	"Bachelor's"	"Telecommunications"	NA	7	11	NA	NA	0
+1381887	"2"	"Train"	"Maywood"	"IL"	"US"	"60153"	"High School"	"Not Applicable"	1998-01-01	1	13	NA	NA	0
+1389933	"2"	"Test"	"Stone Mountain"	"GA"	"US"	"30083"	"Associate's"	"Mortuary Science"	NA	7	14	NA	NA	0
+1395660	"2"	"Train"	"Goodlettsville"	"TN"	"US"	"37072"	"Bachelor's"	"Accounting"	1996-05-01	2	29	NA	NA	5
+1395906	"2"	"Test"	"Euless"	"TX"	"US"	"76039"	"None"	NA	NA	5	18	NA	NA	0
+1396469	"2"	"Test"	"Charlotte"	"NC"	"US"	"28210"	"PhD"	NA	NA	4	5	NA	NA	0
+1398287	"2"	"Train"	"Dallas"	"TX"	"US"	"75287"	"High School"	"Not Applicable"	2006-01-01	7	5	NA	NA	0
+1424922	"2"	"Test"	"Garland"	"TX"	"US"	"75043"	"None"	NA	NA	5	5	NA	NA	0
+1434119	"2"	"Train"	"Fairfax"	"VA"	"US"	"22033"	"Bachelor's"	NA	NA	7	17	NA	NA	0
+1434960	"2"	"Train"	"Newark"	"NJ"	"US"	"07106"	"High School"	"Math"	1988-06-01	3	8	NA	NA	0
+1454754	"2"	"Test"	"Des Plaines"	"IL"	"US"	"60016"	"Bachelor's"	"Accounting & Auditing"	NA	7	27	NA	NA	0
+1455270	"2"	"Train"	"Fort Worth"	"TX"	"US"	"76140"	"None"	NA	NA	6	7	NA	NA	0
+1468470	"2"	"Train"	"Ringwood"	"IL"	"US"	"60072"	"Associate's"	"Marketing Management"	1992-01-01	2	30	NA	NA	0
+25257	"3"	"Train"	"Westminster"	"CO"	"US"	"80030"	"Bachelor's"	"Industrial Engineer"	2006-09-01	4	10	NA	NA	0
+889377	"3"	"Train"	"Pineville"	"NC"	"US"	"28134"	"High School"	"Not Applicable"	2010-05-01	3	4	NA	NA	0
+936020	"3"	"Test"	"Atlanta"	"GA"	"US"	"30303"	"Vocational"	"Medical Insurance Coding Specialist/Coder"	2011-12-01	1	7	NA	NA	8
+971260	"3"	"Test"	"Dearborn"	"MI"	"US"	"48120"	"Bachelor's"	"Business"	1991-04-01	3	19	NA	NA	8
+989799	"3"	"Test"	"East Point"	"GA"	"US"	"30344"	"Bachelor's"	"Finance"	2002-12-01	5	8	NA	NA	0
+1017986	"3"	"Test"	"Woodside"	"NY"	"US"	"11377"	"Bachelor's"	"Administration Management"	2003-06-01	3	9	NA	NA	0
+1061398	"3"	"Train"	"Kansas City"	"MO"	"US"	"64119"	"High School"	"Not Applicable"	2005-01-01	5	8	NA	NA	0
+1101918	"3"	"Train"	"Uniondale"	"NY"	"US"	"11553"	"Bachelor's"	"Psychology"	2008-01-01	6	8	NA	NA	0
+1362963	"3"	"Test"	"New York"	"NY"	"US"	"10025"	"Bachelor's"	"Finance and Investments"	2006-01-01	10	13	NA	NA	0
+1382297	"3"	"Test"	"National City"	"CA"	"US"	"91950"	"Bachelor's"	"Arts History"	2000-01-01	4	8	NA	NA	8
+1126284	"4"	"Test"	"San Jose"	"CA"	"US"	"95136"	"Bachelor's"	"Criminal Justice"	2012-06-01	7	17	NA	NA	0
